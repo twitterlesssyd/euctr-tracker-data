@@ -1,0 +1,9 @@
+
+*BG has emailed a sheet that contains, for every trial on EUCTR: -
+Everything produced by current SQL query- The “count” variable (called
+“count”) of how many trials that sponsor has in EUCTR- A “results due”
+variable (called “are_results_due”).- A “data error” variable (i.e.
+“missing completion date” or “inconsistent completion date and completion
+status”) called “error_data”- Title of the trial (to follow from Nick)-
+Link to the trial URL on EUCTR (to follow from Nick)*
+
