@@ -1,12 +1,1 @@
-{
-    "number_of_trials": 29451,
-
-    "listed_as_completed": 10911,
-    "no_completion_date": 3830,
-    "percent_with_no_completion_date": 35.1,
-
-    "due_with_completion_date": 6551,
-    "completed_trials_with_date": 6551,
-    "percent_with_results": 46.9,
-    "percent_without_results": 53.1
-}
+{"due_trials": 6551, "due_trials_with_results": 3070, "total_trials": 29451, "due_trials_without_results": 3481, "percent_without_results": 53.1}
