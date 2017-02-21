@@ -188,6 +188,7 @@ FROM
 GROUP BY
     eudract_number;
 
+COPY (
 SELECT
     eudract_number AS Trial_ID,
     Total AS Number_of_Countries,
@@ -276,4 +277,6 @@ SELECT
     'https://www.clinicaltrialsregister.eu/ctr-search/search?query=' || eudract_number as trial_url
 FROM
     temp1
-    INNER JOIN Spons3 ON temp1.eudract_number = Spons3.Trial_ID;
+    INNER JOIN Spons3 ON temp1.eudract_number = Spons3.Trial_ID
+)
+TO STDOUT WITH CSV HEADER
