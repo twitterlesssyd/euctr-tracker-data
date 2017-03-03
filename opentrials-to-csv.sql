@@ -274,7 +274,20 @@ SELECT
 	THEN concat(substring(regexp_replace(full_title_of_the_trial, E'[\n\r].*$', '', 'g'), 1,200), '...')
 	ELSE regexp_replace(full_title_of_the_trial, E'[\n\r].*$', '', 'g')
     END AS trial_title,
-    'https://www.clinicaltrialsregister.eu/ctr-search/search?query=' || eudract_number as trial_url
+    'https://www.clinicaltrialsregister.eu/ctr-search/search?query=' || eudract_number as trial_url,
+	 CASE
+	WHEN completed + terminated = total
+	AND comp_date = 0
+	THEN 1
+	ELSE 0
+    END AS all_complete_no_comp_date,		
+    CASE	
+	WHEN comp_date > 0
+	AND (completed + terminated) > 0
+        AND (completed + terminated) < total
+	THEN 1
+	ELSE 0
+    END AS comp_date_while_ongoing
 FROM
     temp1
     INNER JOIN Spons3 ON temp1.eudract_number = Spons3.Trial_ID
