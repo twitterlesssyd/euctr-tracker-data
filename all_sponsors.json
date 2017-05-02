@@ -33,17 +33,12 @@
         "children": [],
         "inconsistent_trials": 0,
         "not_yet_due_trials": 1,
-        "parents": [
-            {
-                "name": "482 Biomedical, Inc.",
-                "slug": "482-biomedical-inc"
-            }
-        ],
+        "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
-        "slug": "481-biomedical-inc",
-        "sponsor_name": "481 Biomedical, Inc.",
+        "slug": "480-biomedical-inc",
+        "sponsor_name": "480 Biomedical, Inc.",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -6727,17 +6722,12 @@
         "children": [],
         "inconsistent_trials": 0,
         "not_yet_due_trials": 1,
-        "parents": [
-            {
-                "name": "ASL SALERNO 3",
-                "slug": "asl-salerno-3"
-            }
-        ],
+        "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
-        "slug": "asl-salerno-2",
-        "sponsor_name": "ASL SALERNO 2",
+        "slug": "asl-salerno-1",
+        "sponsor_name": "ASL SALERNO 1",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -33680,33 +33670,13 @@
             }
         ],
         "percent_bad_data": 0.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
-        "slug": "icagen-inc",
-        "sponsor_name": "Icagen Inc",
-        "total_due": 0,
-        "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 0
-    },
-    {
-        "children": [],
-        "inconsistent_trials": 0,
-        "not_yet_due_trials": 0,
-        "parents": [
-            {
-                "name": "Pfizer",
-                "slug": "pfizer"
-            }
-        ],
-        "percent_bad_data": 0.0,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "icagen-inc",
         "sponsor_name": "Icagen, Inc.",
         "total_due": 1,
         "total_reported": 1,
-        "total_trials": 1,
+        "total_trials": 2,
         "total_unreported": 0
     },
     {
@@ -34491,21 +34461,6 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
-        "not_yet_due_trials": 0,
-        "parents": [],
-        "percent_bad_data": 100.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
-        "slug": "immupharma-sa",
-        "sponsor_name": "IMMUPHARMA SA",
-        "total_due": 0,
-        "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 0
-    },
-    {
-        "children": [],
         "inconsistent_trials": 0,
         "not_yet_due_trials": 1,
         "parents": [],
@@ -34514,6 +34469,21 @@
         "percent_unreported": NaN,
         "slug": "immupharma-sa",
         "sponsor_name": "ImmuPharma SA",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "immupharma-sa",
+        "sponsor_name": "IMMUPHARMA SA",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -34692,21 +34662,6 @@
     {
         "children": [],
         "inconsistent_trials": 0,
-        "not_yet_due_trials": 1,
-        "parents": [],
-        "percent_bad_data": 0.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
-        "slug": "ineos-healthcare-limited",
-        "sponsor_name": "INEOS Healthcare Limited",
-        "total_due": 0,
-        "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 0
-    },
-    {
-        "children": [],
-        "inconsistent_trials": 0,
         "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 0.0,
@@ -34718,6 +34673,21 @@
         "total_reported": 0,
         "total_trials": 1,
         "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "ineos-healthcare-limited",
+        "sponsor_name": "INEOS Healthcare Limited",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -35067,21 +35037,6 @@
     {
         "children": [],
         "inconsistent_trials": 0,
-        "not_yet_due_trials": 0,
-        "parents": [],
-        "percent_bad_data": 0.0,
-        "percent_reported": 0.0,
-        "percent_unreported": 100.0,
-        "slug": "innovive-pharmaceuticals",
-        "sponsor_name": "INNOVIVE Pharmaceuticals",
-        "total_due": 1,
-        "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 1
-    },
-    {
-        "children": [],
-        "inconsistent_trials": 0,
         "not_yet_due_trials": 1,
         "parents": [],
         "percent_bad_data": 0.0,
@@ -35093,6 +35048,21 @@
         "total_reported": 0,
         "total_trials": 1,
         "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "innovive-pharmaceuticals",
+        "sponsor_name": "INNOVIVE Pharmaceuticals",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
     },
     {
         "children": [],
@@ -35418,7 +35388,7 @@
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "institut-de-cancerologie-de-louest",
-        "sponsor_name": "INSTITUT DE CANCEROLOGIE DE L'OUEST",
+        "sponsor_name": "Institut de Canc\u00e9rologie de l'Ouest",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -35433,7 +35403,7 @@
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "institut-de-cancerologie-de-louest",
-        "sponsor_name": "Institut de Canc\u00e9rologie de l'Ouest",
+        "sponsor_name": "INSTITUT DE CANCEROLOGIE DE L'OUEST",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -36138,7 +36108,7 @@
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "instituto-de-inmunologia-y-alergia-inmunal-sau",
-        "sponsor_name": "Instituto de Inmunolog\u00eda y Alergia INMUNAL S.A..U.",
+        "sponsor_name": "Instituto de Inmunolog\u00eda y Alergia INMUNAL SAU",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -36153,7 +36123,7 @@
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "instituto-de-inmunologia-y-alergia-inmunal-sau",
-        "sponsor_name": "Instituto de Inmunolog\u00eda y Alergia INMUNAL SAU",
+        "sponsor_name": "Instituto de Inmunolog\u00eda y Alergia INMUNAL S.A..U.",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -36183,7 +36153,7 @@
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "instituto-de-investigacion-sanitaria-fundacion-jimenez-diaz",
-        "sponsor_name": "INSTITUTO DE INVESTIGACION SANITARIA FUNDACION JIMENEZ DIAZ",
+        "sponsor_name": "Instituto de Investigaci\u00f3n Sanitaria Fundaci\u00f3n Jim\u00e9nez D\u00edaz",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -36198,7 +36168,7 @@
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "instituto-de-investigacion-sanitaria-fundacion-jimenez-diaz",
-        "sponsor_name": "Instituto de Investigaci\u00f3n Sanitaria Fundaci\u00f3n Jim\u00e9nez D\u00edaz",
+        "sponsor_name": "INSTITUTO DE INVESTIGACION SANITARIA FUNDACION JIMENEZ DIAZ",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -37996,21 +37966,6 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
-        "not_yet_due_trials": 0,
-        "parents": [],
-        "percent_bad_data": 0.0,
-        "percent_reported": 0.0,
-        "percent_unreported": 100.0,
-        "slug": "jennerex-inc",
-        "sponsor_name": "Jennerex, Inc",
-        "total_due": 1,
-        "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 1
-    },
-    {
-        "children": [],
         "inconsistent_trials": 1,
         "not_yet_due_trials": 0,
         "parents": [],
@@ -38023,6 +37978,21 @@
         "total_reported": 0,
         "total_trials": 1,
         "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "jennerex-inc",
+        "sponsor_name": "Jennerex, Inc",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
     },
     {
         "children": [],
@@ -53714,10 +53684,6 @@
             {
                 "name": "Hospira, Inc.",
                 "slug": "hospira-inc"
-            },
-            {
-                "name": "Icagen Inc",
-                "slug": "icagen-inc"
             },
             {
                 "name": "Icagen, Inc.",
