@@ -249,7 +249,7 @@ SELECT
     CASE
         WHEN completed + terminated = Total
         AND comp_date > 0
-        AND max_end_date <= '2015-12-21'
+        AND max_end_date < '2016-04-10'
         THEN 1
         ELSE 0
     END AS results_expected,
