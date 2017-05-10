@@ -557,16 +557,16 @@
     {
         "children": [],
         "inconsistent_trials": 1,
-        "not_yet_due_trials": 4,
+        "not_yet_due_trials": 7,
         "parents": [],
-        "percent_bad_data": 16.7,
+        "percent_bad_data": 11.1,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "acadia-pharmaceuticals-inc",
         "sponsor_name": "Acadia Pharmaceuticals Inc",
         "total_due": 1,
         "total_reported": 0,
-        "total_trials": 6,
+        "total_trials": 9,
         "total_unreported": 1
     },
     {
@@ -1011,6 +1011,21 @@
         "total_reported": 10,
         "total_trials": 75,
         "total_unreported": 4
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "actinogen-medical",
+        "sponsor_name": "Actinogen Medical",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -2104,7 +2119,7 @@
     {
         "children": [],
         "inconsistent_trials": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 2,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
@@ -2113,7 +2128,7 @@
         "sponsor_name": "Aimmune Therapeutics  Inc.",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 1,
+        "total_trials": 2,
         "total_unreported": 0
     },
     {
@@ -6923,22 +6938,22 @@
             }
         ],
         "inconsistent_trials": 63,
-        "not_yet_due_trials": 38,
+        "not_yet_due_trials": 39,
         "parents": [],
-        "percent_bad_data": 52.1,
+        "percent_bad_data": 51.6,
         "percent_reported": 85.0,
         "percent_unreported": 15.0,
         "slug": "astellas",
         "sponsor_name": "Astellas",
         "total_due": 20,
         "total_reported": 17,
-        "total_trials": 121,
+        "total_trials": 122,
         "total_unreported": 3
     },
     {
         "children": [],
         "inconsistent_trials": 0,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 6,
         "parents": [
             {
                 "name": "Otsuka",
@@ -6952,7 +6967,7 @@
         "sponsor_name": "Astex Pharmaceuticals Inc",
         "total_due": 1,
         "total_reported": 0,
-        "total_trials": 6,
+        "total_trials": 7,
         "total_unreported": 1
     },
     {
@@ -8852,16 +8867,16 @@
             }
         ],
         "inconsistent_trials": 117,
-        "not_yet_due_trials": 66,
+        "not_yet_due_trials": 67,
         "parents": [],
-        "percent_bad_data": 45.9,
+        "percent_bad_data": 45.7,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "bayer",
         "sponsor_name": "Bayer",
         "total_due": 72,
         "total_reported": 72,
-        "total_trials": 255,
+        "total_trials": 256,
         "total_unreported": 0
     },
     {
@@ -11111,16 +11126,16 @@
             }
         ],
         "inconsistent_trials": 138,
-        "not_yet_due_trials": 111,
+        "not_yet_due_trials": 113,
         "parents": [],
-        "percent_bad_data": 48.1,
+        "percent_bad_data": 47.8,
         "percent_reported": 94.7,
         "percent_unreported": 5.3,
         "slug": "bristol-myers-squibb",
         "sponsor_name": "Bristol-Myers Squibb",
         "total_due": 38,
         "total_reported": 36,
-        "total_trials": 287,
+        "total_trials": 289,
         "total_unreported": 2
     },
     {
@@ -13958,16 +13973,16 @@
     {
         "children": [],
         "inconsistent_trials": 1,
-        "not_yet_due_trials": 19,
+        "not_yet_due_trials": 20,
         "parents": [],
-        "percent_bad_data": 5.0,
+        "percent_bad_data": 4.8,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "chru-de-tours",
         "sponsor_name": "CHRU de Tours",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 20,
+        "total_trials": 21,
         "total_unreported": 0
     },
     {
@@ -15668,16 +15683,16 @@
     {
         "children": [],
         "inconsistent_trials": 65,
-        "not_yet_due_trials": 160,
+        "not_yet_due_trials": 162,
         "parents": [],
-        "percent_bad_data": 19.4,
+        "percent_bad_data": 19.3,
         "percent_reported": 2.7,
         "percent_unreported": 97.3,
         "slug": "copenhagen-university",
         "sponsor_name": "Copenhagen University",
         "total_due": 110,
         "total_reported": 3,
-        "total_trials": 335,
+        "total_trials": 337,
         "total_unreported": 107
     },
     {
@@ -16916,6 +16931,21 @@
         "percent_unreported": NaN,
         "slug": "dalcor-pharma-uk-ltd-altrincham-swiss-branch-zug",
         "sponsor_name": "DalCor Pharma UK Ltd, Altrincham, Swiss Branch Zug",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "dalhousie-university",
+        "sponsor_name": "Dalhousie University",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -21069,6 +21099,21 @@
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
+        "slug": "dra-a-teresa-calderon-duque",
+        "sponsor_name": "Dra. A. Teresa Calder\u00f3n Duque",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
         "slug": "dra-almudena-zapatero-laborda",
         "sponsor_name": "Dra. Almudena Zapatero Laborda",
         "total_due": 0,
@@ -21229,16 +21274,16 @@
     {
         "children": [],
         "inconsistent_trials": 4,
-        "not_yet_due_trials": 15,
+        "not_yet_due_trials": 16,
         "parents": [],
-        "percent_bad_data": 10.3,
+        "percent_bad_data": 10.0,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "dresden-university-of-technology",
         "sponsor_name": "Dresden University of Technology",
         "total_due": 20,
         "total_reported": 0,
-        "total_trials": 39,
+        "total_trials": 40,
         "total_unreported": 20
     },
     {
@@ -22158,16 +22203,16 @@
             }
         ],
         "inconsistent_trials": 156,
-        "not_yet_due_trials": 116,
+        "not_yet_due_trials": 117,
         "parents": [],
-        "percent_bad_data": 43.6,
+        "percent_bad_data": 43.5,
         "percent_reported": 40.7,
         "percent_unreported": 59.3,
         "slug": "eli-lilly",
         "sponsor_name": "Eli Lilly",
         "total_due": 86,
         "total_reported": 35,
-        "total_trials": 358,
+        "total_trials": 359,
         "total_unreported": 51
     },
     {
@@ -28905,16 +28950,16 @@
             }
         ],
         "inconsistent_trials": 88,
-        "not_yet_due_trials": 88,
+        "not_yet_due_trials": 89,
         "parents": [],
-        "percent_bad_data": 43.8,
+        "percent_bad_data": 43.6,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "gilead-sciences-inc",
         "sponsor_name": "Gilead Sciences Inc",
         "total_due": 25,
         "total_reported": 25,
-        "total_trials": 201,
+        "total_trials": 202,
         "total_unreported": 0
     },
     {
@@ -29087,16 +29132,16 @@
             }
         ],
         "inconsistent_trials": 515,
-        "not_yet_due_trials": 197,
+        "not_yet_due_trials": 198,
         "parents": [],
-        "percent_bad_data": 51.6,
+        "percent_bad_data": 51.5,
         "percent_reported": 88.2,
         "percent_unreported": 11.8,
         "slug": "glaxosmithkline",
         "sponsor_name": "GlaxoSmithKline",
         "total_due": 287,
         "total_reported": 253,
-        "total_trials": 999,
+        "total_trials": 1000,
         "total_unreported": 34
     },
     {
@@ -29737,16 +29782,16 @@
     {
         "children": [],
         "inconsistent_trials": 20,
-        "not_yet_due_trials": 9,
+        "not_yet_due_trials": 10,
         "parents": [],
-        "percent_bad_data": 52.6,
+        "percent_bad_data": 51.3,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "grunenthal-gmbh",
         "sponsor_name": "Gr\u00fcnenthal GmbH",
         "total_due": 9,
         "total_reported": 9,
-        "total_trials": 38,
+        "total_trials": 39,
         "total_unreported": 0
     },
     {
@@ -30556,16 +30601,16 @@
     {
         "children": [],
         "inconsistent_trials": 12,
-        "not_yet_due_trials": 14,
+        "not_yet_due_trials": 15,
         "parents": [],
-        "percent_bad_data": 27.3,
+        "percent_bad_data": 26.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "hannover-medical-school",
         "sponsor_name": "Hannover Medical School",
         "total_due": 18,
         "total_reported": 0,
-        "total_trials": 44,
+        "total_trials": 45,
         "total_unreported": 18
     },
     {
@@ -32687,16 +32732,16 @@
     {
         "children": [],
         "inconsistent_trials": 10,
-        "not_yet_due_trials": 146,
+        "not_yet_due_trials": 147,
         "parents": [],
-        "percent_bad_data": 6.3,
+        "percent_bad_data": 6.2,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "hospitals-of-paris",
         "sponsor_name": "Hospitals of Paris",
         "total_due": 3,
         "total_reported": 0,
-        "total_trials": 159,
+        "total_trials": 160,
         "total_unreported": 3
     },
     {
@@ -37022,6 +37067,36 @@
     {
         "children": [],
         "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "ivi-bilbao",
+        "sponsor_name": "IVI BILBAO",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "ixaltis",
+        "sponsor_name": "IXALTIS",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
         "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 0.0,
@@ -37187,21 +37262,21 @@
     {
         "children": [],
         "inconsistent_trials": 134,
-        "not_yet_due_trials": 118,
+        "not_yet_due_trials": 119,
         "parents": [
             {
                 "name": "Johnson & Johnson",
                 "slug": "johnson-johnson"
             }
         ],
-        "percent_bad_data": 40.4,
+        "percent_bad_data": 40.2,
         "percent_reported": 97.5,
         "percent_unreported": 2.5,
         "slug": "janssen",
         "sponsor_name": "Janssen",
         "total_due": 80,
         "total_reported": 78,
-        "total_trials": 332,
+        "total_trials": 333,
         "total_unreported": 2
     },
     {
@@ -38246,6 +38321,21 @@
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
+        "slug": "jose-maria-palazon-azorin",
+        "sponsor_name": "JOS\u00c9 MAR\u00cdA PALAZ\u00d3N AZOR\u00cdN",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
         "slug": "jose-miguel-cisneros-herreros",
         "sponsor_name": "Jos\u00e9 Miguel Cisneros Herreros",
         "total_due": 0,
@@ -38991,16 +39081,16 @@
     {
         "children": [],
         "inconsistent_trials": 15,
-        "not_yet_due_trials": 136,
+        "not_yet_due_trials": 137,
         "parents": [],
-        "percent_bad_data": 8.7,
+        "percent_bad_data": 8.6,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "karolinska-institutet",
         "sponsor_name": "Karolinska Institutet",
         "total_due": 22,
         "total_reported": 0,
-        "total_trials": 173,
+        "total_trials": 174,
         "total_unreported": 22
     },
     {
@@ -39677,6 +39767,21 @@
         "total_reported": 0,
         "total_trials": 1,
         "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "klinikum-der-universitaet-muenchen-aoer",
+        "sponsor_name": "Klinikum der Universitaet Muenchen AoeR",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -41846,16 +41951,16 @@
     {
         "children": [],
         "inconsistent_trials": 1,
-        "not_yet_due_trials": 25,
+        "not_yet_due_trials": 27,
         "parents": [],
-        "percent_bad_data": 3.3,
+        "percent_bad_data": 3.1,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "linkoping-university",
         "sponsor_name": "Link\u00f6ping University",
         "total_due": 4,
         "total_reported": 0,
-        "total_trials": 30,
+        "total_trials": 32,
         "total_unreported": 4
     },
     {
@@ -43674,16 +43779,16 @@
     {
         "children": [],
         "inconsistent_trials": 2,
-        "not_yet_due_trials": 15,
+        "not_yet_due_trials": 16,
         "parents": [],
-        "percent_bad_data": 8.0,
+        "percent_bad_data": 7.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "martin-luther-university-halle-wittenberg",
         "sponsor_name": "Martin Luther University Halle-Wittenberg",
         "total_due": 8,
         "total_reported": 0,
-        "total_trials": 25,
+        "total_trials": 26,
         "total_unreported": 8
     },
     {
@@ -49002,16 +49107,16 @@
     {
         "children": [],
         "inconsistent_trials": 2,
-        "not_yet_due_trials": 6,
+        "not_yet_due_trials": 7,
         "parents": [],
-        "percent_bad_data": 25.0,
+        "percent_bad_data": 22.2,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "nordic-lymphoma-group",
         "sponsor_name": "Nordic Lymphoma Group",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 8,
+        "total_trials": 9,
         "total_unreported": 0
     },
     {
@@ -49532,7 +49637,7 @@
             }
         ],
         "inconsistent_trials": 492,
-        "not_yet_due_trials": 324,
+        "not_yet_due_trials": 325,
         "parents": [
             {
                 "name": "GlaxoSmithKline",
@@ -49546,7 +49651,7 @@
         "sponsor_name": "Novartis",
         "total_due": 524,
         "total_reported": 464,
-        "total_trials": 1340,
+        "total_trials": 1341,
         "total_unreported": 60
     },
     {
@@ -49741,16 +49846,16 @@
     {
         "children": [],
         "inconsistent_trials": 85,
-        "not_yet_due_trials": 51,
+        "not_yet_due_trials": 52,
         "parents": [],
-        "percent_bad_data": 43.8,
+        "percent_bad_data": 43.6,
         "percent_reported": 96.6,
         "percent_unreported": 3.4,
         "slug": "novo-nordisk",
         "sponsor_name": "Novo Nordisk",
         "total_due": 58,
         "total_reported": 56,
-        "total_trials": 194,
+        "total_trials": 195,
         "total_unreported": 2
     },
     {
@@ -50223,6 +50328,21 @@
         "percent_unreported": NaN,
         "slug": "oliver-ploder-md-dds-phd",
         "sponsor_name": "Oliver Ploder MD, DDS, PhD",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "olli-leppanen",
+        "sponsor_name": "Olli Lepp\u00e4nen",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -50807,6 +50927,21 @@
         "percent_unreported": NaN,
         "slug": "opiant-pharmaceuticals-inc",
         "sponsor_name": "Opiant Pharmaceuticals Inc",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "opko-biologics-ltd",
+        "sponsor_name": "OPKO Biologics Ltd.",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -57201,31 +57336,31 @@
     {
         "children": [],
         "inconsistent_trials": 1,
-        "not_yet_due_trials": 9,
+        "not_yet_due_trials": 10,
         "parents": [],
-        "percent_bad_data": 7.7,
+        "percent_bad_data": 7.1,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "region-ostergotland",
         "sponsor_name": "Region \u00d6sterg\u00f6tland",
         "total_due": 3,
         "total_reported": 0,
-        "total_trials": 13,
+        "total_trials": 14,
         "total_unreported": 3
     },
     {
         "children": [],
         "inconsistent_trials": 1,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 6,
         "parents": [],
-        "percent_bad_data": 14.3,
+        "percent_bad_data": 12.5,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "region-skane",
         "sponsor_name": "Region Sk\u00e5ne",
         "total_due": 1,
         "total_reported": 0,
-        "total_trials": 7,
+        "total_trials": 8,
         "total_unreported": 1
     },
     {
@@ -57851,7 +57986,7 @@
     {
         "children": [],
         "inconsistent_trials": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 3,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
@@ -57860,7 +57995,7 @@
         "sponsor_name": "ReveraGen BioPharma, Inc.",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 1,
+        "total_trials": 3,
         "total_unreported": 0
     },
     {
@@ -60456,6 +60591,21 @@
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
+        "slug": "servicio-de-nefrologia",
+        "sponsor_name": "SERVICIO DE NEFROLOGIA",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
         "slug": "servicio-de-neurologia",
         "sponsor_name": "Servicio de Neurolog\u00eda",
         "total_due": 0,
@@ -61214,16 +61364,16 @@
     {
         "children": [],
         "inconsistent_trials": 1,
-        "not_yet_due_trials": 14,
+        "not_yet_due_trials": 15,
         "parents": [],
-        "percent_bad_data": 5.6,
+        "percent_bad_data": 5.3,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "skane-university",
         "sponsor_name": "Sk\u00e5ne University",
         "total_due": 3,
         "total_reported": 0,
-        "total_trials": 18,
+        "total_trials": 19,
         "total_unreported": 3
     },
     {
@@ -65497,6 +65647,21 @@
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
+        "slug": "the-department-of-urology",
+        "sponsor_name": "The Department of Urology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
         "slug": "the-dutch-working-group-on-immunotherapy-of-oncology-win-o",
         "sponsor_name": "The Dutch Working Group on Immunotherapy of Oncology (WIN-O)",
         "total_due": 0,
@@ -69035,16 +69200,16 @@
     {
         "children": [],
         "inconsistent_trials": 1,
-        "not_yet_due_trials": 3,
+        "not_yet_due_trials": 4,
         "parents": [],
-        "percent_bad_data": 20.0,
+        "percent_bad_data": 16.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "university-hospital-basel",
         "sponsor_name": "University Hospital Basel",
         "total_due": 1,
         "total_reported": 0,
-        "total_trials": 5,
+        "total_trials": 6,
         "total_unreported": 1
     },
     {
@@ -69845,16 +70010,16 @@
     {
         "children": [],
         "inconsistent_trials": 3,
-        "not_yet_due_trials": 6,
+        "not_yet_due_trials": 7,
         "parents": [],
-        "percent_bad_data": 15.0,
+        "percent_bad_data": 14.3,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "university-of-gottingen",
         "sponsor_name": "University of G\u00f6ttingen",
         "total_due": 11,
         "total_reported": 0,
-        "total_trials": 20,
+        "total_trials": 21,
         "total_unreported": 11
     },
     {
@@ -70520,7 +70685,7 @@
     {
         "children": [],
         "inconsistent_trials": 0,
-        "not_yet_due_trials": 22,
+        "not_yet_due_trials": 23,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": 9.1,
@@ -70529,7 +70694,7 @@
         "sponsor_name": "University of Ulm",
         "total_due": 11,
         "total_reported": 1,
-        "total_trials": 33,
+        "total_trials": 34,
         "total_unreported": 10
     },
     {
@@ -71304,16 +71469,16 @@
     {
         "children": [],
         "inconsistent_trials": 4,
-        "not_yet_due_trials": 57,
+        "not_yet_due_trials": 58,
         "parents": [],
-        "percent_bad_data": 5.9,
+        "percent_bad_data": 5.8,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "vastra-gotaland-regionen",
         "sponsor_name": "V\u00e4stra G\u00f6taland Regionen",
         "total_due": 7,
         "total_reported": 0,
-        "total_trials": 68,
+        "total_trials": 69,
         "total_unreported": 7
     },
     {
@@ -71619,6 +71784,21 @@
         "total_due": 17,
         "total_reported": 17,
         "total_trials": 54,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "vertex-pharmaceuticals-incoporated",
+        "sponsor_name": "Vertex Pharmaceuticals Incoporated",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
         "total_unreported": 0
     },
     {
