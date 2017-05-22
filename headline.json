@@ -1,11 +1,11 @@
 {
-    "all_sponsors_count": 4645,
-    "due_date_cutoff": "2016-04-14",
-    "due_trials": 6925,
-    "due_trials_with_results": 3344,
-    "due_trials_without_results": 3581,
+    "all_sponsors_count": 4660,
+    "due_date_cutoff": "2016-04-26",
+    "due_trials": 6956,
+    "due_trials_with_results": 3363,
+    "due_trials_without_results": 3593,
     "major_sponsors_count": 92,
     "percent_without_results": 51.7,
-    "scrape_date": "2017-05-05",
-    "total_trials": 30200
+    "scrape_date": "2017-05-17",
+    "total_trials": 30258
 }
