@@ -59,7 +59,9 @@
         "due_trials": 7096,
         "due_trials_with_results": 3469,
         "due_trials_without_results": 3627,
+        "inconsistent_trials": 8679,
         "major_sponsors_count": 92,
+        "percent_inconsistent": 28.4,
         "percent_without_results": 51.1,
         "scrape_date": "2017-07-21",
         "total_trials": 30587
