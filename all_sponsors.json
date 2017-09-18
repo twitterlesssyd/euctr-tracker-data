@@ -5132,7 +5132,7 @@
     {
         "children": [],
         "inconsistent_trials": 5,
-        "major": 1,
+        "major": 0,
         "not_yet_due_trials": 49,
         "parents": [],
         "percent_bad_data": 9.3,
@@ -6001,7 +6001,7 @@
     {
         "children": [],
         "inconsistent_trials": 7,
-        "major": 1,
+        "major": 0,
         "not_yet_due_trials": 49,
         "parents": [],
         "percent_bad_data": 12.5,
@@ -71297,7 +71297,7 @@
     {
         "children": [],
         "inconsistent_trials": 4,
-        "major": 1,
+        "major": 0,
         "not_yet_due_trials": 107,
         "parents": [],
         "percent_bad_data": 3.6,
