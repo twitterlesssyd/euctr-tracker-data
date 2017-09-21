@@ -13,8 +13,8 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2016-004152-30,AbbVie Deutschland GmbH & Co. KG,Abbvie,Abbott/Abbvie
 2016-004967-38,AbbVie Deutschland GmbH & Co. KG,Abbvie,Abbott/Abbvie
 2017-000439-14,AbbVie Deutschland GmbH & Co. KG,Abbvie,Abbott/Abbvie
-2016-003320-23,Actelion Pharmaceuticals Ltd,Actelion Pharmaceuticals Ltd,Actelion Pharmaceuticals Ltd
-2017-000494-36,Actelion Pharmaceuticals Ltd,Actelion Pharmaceuticals Ltd,Actelion Pharmaceuticals Ltd
+2016-003320-23,Actelion Pharmaceuticals Ltd,Actelion Pharmaceuticals Ltd,Johnson & Johnson
+2017-000494-36,Actelion Pharmaceuticals Ltd,Actelion Pharmaceuticals Ltd,Johnson & Johnson
 2016-004907-30,"Agios Pharmaceuticals, Inc.",Agios Pharmaceuticals Inc,Agios Pharmaceuticals Inc
 2017-003153-42,Alexion Pharma GmbH,"Alexion Pharmaceuticals, Inc","Alexion Pharmaceuticals, Inc"
 2017-000754-19,Allergopharma GmbH & Co. KG,Allergopharma GmbH & Co. KG,Allergopharma GmbH & Co. KG
@@ -92,8 +92,6 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2015-004058-17,CytoVac A/S,CytoVac A/S,CytoVac A/S
 2017-000552-25,Daiichi Sankyo Inc.,Daiichi Sankyo,Daiichi Sankyo
 2016-003367-19,Dr. Falk Pharma GmbH,Dr. Falk Pharma GmbH,Dr. Falk Pharma GmbH
-2016-000521-38,European Organisation for Research and Treatment of Cancer,EORTC,EORTC
-2015-005098-19,European Organisation for Research and Treatment of Cancer (EORTC),EORTC,EORTC
 2016-004945-10,"Eisai Co., ltd",Eisai Inc.,Eisai Inc.
 2016-003352-67,Eisai Ltd,Eisai Inc.,Eisai Inc.
 2016-002041-31,Eli Lilly and Company,Eli Lilly,Eli Lilly
@@ -103,14 +101,14 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2017-001681-24,Erasmus MC,Erasmus University,Erasmus University
 2017-000976-27,Erasmus MC Cancer Institute,Erasmus University,Erasmus University
 2014-003834-21,Erasmus Medical Center Rotterdam,Erasmus University,Erasmus University
-2016-005206-19,Fundación para la Formación e Investigación Sanitaria (FFIS),FFIS,FFIS
-2017-000605-20,Fundación para la Formación e Investigación Sanitarias de la Región de Murcia,FFIS,FFIS
+2016-000521-38,European Organisation for Research and Treatment of Cancer,European Orgainzation for the Research and Treatment of Cancer (EORTC),European Orgainzation for the Research and Treatment of Cancer (EORTC)
+2015-005098-19,European Organisation for Research and Treatment of Cancer (EORTC),European Orgainzation for the Research and Treatment of Cancer (EORTC),European Orgainzation for the Research and Treatment of Cancer (EORTC)
 2005-003347-31,FOURNIER Laboratories Ireland Ltd,FOURNIER Laboratories Ireland Ltd,Abbott/Abbvie
 2016-003851-31,Ferring Pharmaceuticals A/S,Ferring Pharmaceuticals,Ferring Pharmaceuticals
 2017-000469-62,Fundació Clínic per a la Recerca Biomèdica,Fundació Clínic per a la Recerca Biomèdica,Fundació Clínic per a la Recerca Biomèdica
 2017-000784-33,Fundació Clínic per a la Recerca Biomèdica,Fundació Clínic per a la Recerca Biomèdica,Fundació Clínic per a la Recerca Biomèdica
-2017-001639-38,Grupo Español Multidisciplinar en Cáncer Digestivo (GEMCAD),GEMCAD,GEMCAD
-2016-004383-19,GORTEC,GORTEC,GORTEC
+2016-005206-19,Fundación para la Formación e Investigación Sanitaria (FFIS),Fundación para la Formación e Investigación Sanitaria (FFIS),Fundación para la Formación e Investigación Sanitaria (FFIS)
+2017-000605-20,Fundación para la Formación e Investigación Sanitarias de la Región de Murcia,Fundación para la Formación e Investigación Sanitaria (FFIS),Fundación para la Formación e Investigación Sanitaria (FFIS)
 2016-005025-37,"GALDERMA R&D, SNC",Galderma R&D,Nestle
 2017-001715-36,"GALDERMA R&D, SNC",Galderma R&D,Nestle
 2016-004624-35,"Genentech, Inc.",Genentech,Roche
@@ -126,6 +124,8 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2017-001515-36,GlaxoSmithKline K.K.,GlaxoSmithKline,GlaxoSmithKline
 2017-001514-29,GlaxoSmithKline KK,GlaxoSmithKline,GlaxoSmithKline
 2017-000212-41,"GlaxoSmithKline, S.A.",GlaxoSmithKline,GlaxoSmithKline
+2016-004383-19,GORTEC,Groupe d'Oncologie Radiothérapie Tête Et Cou (GORTEC),Groupe d'Oncologie Radiothérapie Tête Et Cou (GORTEC)
+2017-001639-38,Grupo Español Multidisciplinar en Cáncer Digestivo (GEMCAD),Grupo Español Multidisciplinar en Cáncer Digestivo (GEMCAD),Grupo Español Multidisciplinar en Cáncer Digestivo (GEMCAD)
 2016-001164-11,Grünenthal GmbH,Grünenthal GmbH,Grünenthal GmbH
 2006-006328-20,HELP Pharmaceuticals S.A.,HELP Pharmaceuticals SA,HELP Pharmaceuticals SA
 2015-000195-98,HOVON Foundation,HOVON Foundation,HOVON Foundation
@@ -155,7 +155,6 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2016-001224-63,Janssen-Cilag International N.V.,Janssen,Johnson & Johnson
 2016-004373-40,University Medical Center of the Johannes Gutenberg-University Mainz,Johannes Gutenberg University of Mainz,Johannes Gutenberg University of Mainz
 2016-002893-11,Karolinska University Hospital,Karolinska Institutet,Karolinska Institutet
-2013-000734-35,LYSARC,LYSA,LYSA
 2016-003755-29,LABORATOIRES SMB S.A,Laboratoires SMB S.A.,Laboratoires SMB S.A.
 2016-003784-19,"Laboratorio Reig Jofre, SA",Laboratorio Reig Jofré S.A,Laboratorio Reig Jofré S.A
 2017-000089-31,Leiden University Medical Center,Leiden University,Leiden University
@@ -176,6 +175,7 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2004-000439-27,NPS Allelix Corporation,"NPS Pharmaceuticals, Inc.",Shire
 2007-000130-39,Neolab Ltd,Neolab Ltd,Neolab Ltd
 2007-001121-10,NeuroSearch A/S,NeuroSearch A/S,NeuroSearch A/S
+2004-004257-26,Organisation name was not entered,No Sponsor Name Given,No Sponsor Name Given
 2016-004323-23,Novartis,Novartis,Novartis
 2016-004586-67,"Novartis Farmacéutica, S.A.",Novartis,Novartis
 2015-003166-91,Novartis Pharma AG,Novartis,Novartis
@@ -198,7 +198,7 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2016-001456-21,"Pfizer Inc., 235 East 42nd Street, New York, NY 10017",Pfizer,Pfizer
 2016-003239-38,Philogen S.p.A.,Philogen S.p.A.,Philogen S.p.A.
 2016-004664-18,Prothena Therapeutics Limited,Prothena Therapeutics Limited,Prothena Therapeutics Limited
-2014-003071-37,Quantum Genomics,QUANTUM GENOMICS,QUANTUM GENOMICS
+2014-003071-37,Quantum Genomics,Quantum Genomics,Quantum Genomics
 2017-000233-31,RHEACELL GmbH & Co. KG,RHEACELL GmbH & Co. KG,RHEACELL GmbH & Co. KG
 2017-000234-57,RHEACELL GmbH & Co. KG,RHEACELL GmbH & Co. KG,RHEACELL GmbH & Co. KG
 2017-000235-14,RHEACELL GmbH & Co. KG,RHEACELL GmbH & Co. KG,RHEACELL GmbH & Co. KG
@@ -234,13 +234,14 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2017-002169-23,Søren Rittig,Søren Rittig,Søren Rittig
 2016-003716-12,"Millennium Pharmaceuticals, Inc., a wholly owned subsidiary of Takeda Pharmaceutical Company Limited",Takeda,Takeda
 2016-004288-37,"Takeda Vaccines, Inc.",Takeda,Takeda
-2015-005219-34,Technische Universitaet Muenchen Fakultaet fuer Medizin,Techincal University of Munich,Techincal University of Munich
-2016-002351-16,"Technische Universität München, Fakultät für Medizin, represented by Dean",Techincal University of Munich,Techincal University of Munich
+2015-005219-34,Technische Universitaet Muenchen Fakultaet fuer Medizin,Technical University of Munich,Technical University of Munich
+2016-002351-16,"Technische Universität München, Fakultät für Medizin, represented by Dean",Technical University of Munich,Technical University of Munich
+2013-000734-35,LYSARC,The Lymphoma Study Association (LYSA),The Lymphoma Study Association (LYSA)
 2014-004249-29,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,The Newcastle upon Tyne Hospitals NHS Foundation Trust,The Newcastle upon Tyne Hospitals NHS Foundation Trust
 2017-001158-33,The Rotterdam Eye Hospital,The Rotterdam Eye Hospital,The Rotterdam Eye Hospital
 2017-000725-12,"TiGenix, S.A.U.","TiGenix, S.A.U.",TiGenix
+2005-006150-25,University Hospital,Unclear Sponsor Name Given,Unclear Sponsor Name Given
 2013-004398-28,University College London (UCL),University College London,University College London
-2005-006150-25,University Hospital,University Hospital,University Hospital
 2016-003223-30,University Hospital Tübingen,University Hospital Tübingen,University Hospital Tübingen
 2016-004614-10,University Hospital Tübingen,University Hospital Tübingen,University Hospital Tübingen
 2013-002884-24,AMC,University of Amsterdam,University of Amsterdam
@@ -263,7 +264,6 @@ trial_id,name_of_sponsor,normalized_name_only,normalized_name
 2017-000791-29,Clínica Universidad de Navarra/Universidad de Navarra,University of Navarra,University of Navarra
 2016-000903-10,Oulu University Hospital,University of Oulu,University of Oulu
 2016-000842-79,Institut Jules Bordet,Université libre de Bruxelles,Université libre de Bruxelles
-2004-004257-26,Organisation name was not entered,Unknown Sponsor,Unknown Sponsor
 2016-003643-10,UMC Utrecht,Utrecht University,Utrecht University
 2016-005083-34,University Medical Center Utrecht,Utrecht University,Utrecht University
 2017-000393-11,University Medical Center utrecht,Utrecht University,Utrecht University
