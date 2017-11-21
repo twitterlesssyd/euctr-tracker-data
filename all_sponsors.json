@@ -161,18 +161,18 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 16,
+        "inconsistent_trials": 18,
         "major": 1,
-        "not_yet_due_trials": 68,
+        "not_yet_due_trials": 70,
         "parents": [],
-        "percent_bad_data": 13.1,
-        "percent_reported": 15.8,
-        "percent_unreported": 84.2,
+        "percent_bad_data": 14.2,
+        "percent_reported": 17.9,
+        "percent_unreported": 82.1,
         "slug": "aarhus-university",
         "sponsor_name": "Aarhus University",
-        "total_due": 38,
-        "total_reported": 6,
-        "total_trials": 122,
+        "total_due": 39,
+        "total_reported": 7,
+        "total_trials": 127,
         "total_unreported": 32
     },
     {
@@ -7258,6 +7258,22 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "army-health-service-france",
+        "sponsor_name": "Army Health Service (France)",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
         "not_yet_due_trials": 3,
         "parents": [],
         "percent_bad_data": 0.0,
@@ -7398,6 +7414,22 @@
         "percent_unreported": NaN,
         "slug": "artbc",
         "sponsor_name": "ARTBC",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "arthritis-foundation-hungary",
+        "sponsor_name": "Arthritis Foundation Hungary",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -8291,18 +8323,18 @@
                 "slug": "prosidion-ltd"
             }
         ],
-        "inconsistent_trials": 62,
+        "inconsistent_trials": 63,
         "major": 1,
         "not_yet_due_trials": 43,
         "parents": [],
-        "percent_bad_data": 49.6,
+        "percent_bad_data": 50.0,
         "percent_reported": 90.0,
         "percent_unreported": 10.0,
         "slug": "astellas",
         "sponsor_name": "Astellas",
         "total_due": 20,
         "total_reported": 18,
-        "total_trials": 125,
+        "total_trials": 126,
         "total_unreported": 2
     },
     {
@@ -10219,7 +10251,7 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 3,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
@@ -10228,7 +10260,7 @@
         "sponsor_name": "Barnsley Hospital NHS Foundation Trust",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 2,
+        "total_trials": 3,
         "total_unreported": 0
     },
     {
@@ -10336,7 +10368,7 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 3,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
@@ -10345,7 +10377,7 @@
         "sponsor_name": "Basque Health System",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 2,
+        "total_trials": 3,
         "total_unreported": 0
     },
     {
@@ -13369,14 +13401,14 @@
         "not_yet_due_trials": 30,
         "parents": [],
         "percent_bad_data": 2.6,
-        "percent_reported": 71.4,
-        "percent_unreported": 28.6,
+        "percent_reported": 62.5,
+        "percent_unreported": 37.5,
         "slug": "cambridge-university-hospitals-nhs-foundation-trust",
         "sponsor_name": "Cambridge University Hospitals NHS Foundation Trust",
-        "total_due": 7,
+        "total_due": 8,
         "total_reported": 5,
-        "total_trials": 38,
-        "total_unreported": 2
+        "total_trials": 39,
+        "total_unreported": 3
     },
     {
         "children": [],
@@ -14875,16 +14907,16 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 6,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
-        "slug": "central-institute-of-mental-health",
-        "sponsor_name": "Central Institute of Mental Health",
+        "slug": "central-institute-of-mental-health-in-mannheim",
+        "sponsor_name": "Central Institute of Mental Health in Mannheim",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 5,
+        "total_trials": 6,
         "total_unreported": 0
     },
     {
@@ -18014,19 +18046,19 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 71,
+        "inconsistent_trials": 75,
         "major": 1,
-        "not_yet_due_trials": 175,
+        "not_yet_due_trials": 178,
         "parents": [],
-        "percent_bad_data": 19.1,
+        "percent_bad_data": 19.8,
         "percent_reported": 4.8,
         "percent_unreported": 95.2,
         "slug": "copenhagen-university-and-hospitals",
-        "sponsor_name": "Copenhagen University and Hospitals",
-        "total_due": 125,
+        "sponsor_name": "Copenhagen University and Hospitals\u00a0",
+        "total_due": 126,
         "total_reported": 6,
-        "total_trials": 371,
-        "total_unreported": 119
+        "total_trials": 379,
+        "total_unreported": 120
     },
     {
         "children": [],
@@ -19972,6 +20004,22 @@
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 3,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "department-of-health-uk",
+        "sponsor_name": "Department of Health (UK)",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 3,
         "total_unreported": 0
     },
     {
@@ -27989,6 +28037,22 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "general-teaching-hospital-prague",
+        "sponsor_name": "General Teaching Hospital (Prague)",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
         "not_yet_due_trials": 3,
         "parents": [],
         "percent_bad_data": 0.0,
@@ -28805,7 +28869,7 @@
                 "slug": "stiefel-laboratories"
             }
         ],
-        "inconsistent_trials": 527,
+        "inconsistent_trials": 528,
         "major": 1,
         "not_yet_due_trials": 198,
         "parents": [],
@@ -28816,7 +28880,7 @@
         "sponsor_name": "GlaxoSmithKline",
         "total_due": 289,
         "total_reported": 256,
-        "total_trials": 1014,
+        "total_trials": 1015,
         "total_unreported": 33
     },
     {
@@ -32183,6 +32247,22 @@
     },
     {
         "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "hopital-lariboisiere",
+        "sponsor_name": "H\u00f4pital Lariboisi\u00e8re",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
         "inconsistent_trials": 1,
         "major": 0,
         "not_yet_due_trials": 0,
@@ -32337,16 +32417,16 @@
         "children": [],
         "inconsistent_trials": 7,
         "major": 1,
-        "not_yet_due_trials": 68,
+        "not_yet_due_trials": 69,
         "parents": [],
-        "percent_bad_data": 9.1,
+        "percent_bad_data": 9.0,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "hospices-civils-de-lyon",
         "sponsor_name": "Hospices Civils de Lyon",
         "total_due": 2,
         "total_reported": 0,
-        "total_trials": 77,
+        "total_trials": 78,
         "total_unreported": 2
     },
     {
@@ -32438,16 +32518,16 @@
         "children": [],
         "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 17,
+        "not_yet_due_trials": 18,
         "parents": [],
-        "percent_bad_data": 10.0,
+        "percent_bad_data": 9.5,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "hospital-clinic-barcelona",
         "sponsor_name": "Hospital Clinic Barcelona",
         "total_due": 1,
         "total_reported": 0,
-        "total_trials": 20,
+        "total_trials": 21,
         "total_unreported": 1
     },
     {
@@ -32742,7 +32822,7 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 2,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
@@ -32751,7 +32831,7 @@
         "sponsor_name": "Hospital General Universitario Gregorio Mara\u00f1on",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 1,
+        "total_trials": 2,
         "total_unreported": 0
     },
     {
@@ -33222,16 +33302,16 @@
         "children": [],
         "inconsistent_trials": 6,
         "major": 0,
-        "not_yet_due_trials": 27,
+        "not_yet_due_trials": 28,
         "parents": [],
-        "percent_bad_data": 17.1,
+        "percent_bad_data": 16.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "hospital-universitario-la-paz",
         "sponsor_name": "Hospital Universitario La Paz",
         "total_due": 2,
         "total_reported": 0,
-        "total_trials": 35,
+        "total_trials": 36,
         "total_unreported": 2
     },
     {
@@ -33323,6 +33403,22 @@
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
+        "slug": "hospital-universitario-virgen-de-victoria",
+        "sponsor_name": "Hospital Universitario Virgen de Victoria",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
         "slug": "hospital-universitario-virgen-del-rocio",
         "sponsor_name": "Hospital Universitario Virgen del Roc\u00edo",
         "total_due": 0,
@@ -33344,6 +33440,22 @@
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 50.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "hospital-vithas-san-jose",
+        "sponsor_name": "Hospital Vithas San Jos\u00e9",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 2,
         "total_unreported": 0
     },
     {
@@ -35181,6 +35293,22 @@
         "total_unreported": 1
     },
     {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "insitute-of-endocrinology-prague",
+        "sponsor_name": "Insitute of Endocrinology (Prague)",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
         "children": [
             {
                 "name": "Transave, Inc",
@@ -35539,16 +35667,16 @@
         "children": [],
         "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 18,
+        "not_yet_due_trials": 19,
         "parents": [],
-        "percent_bad_data": 5.3,
+        "percent_bad_data": 5.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "institut-gustave-roussy",
         "sponsor_name": "Institut Gustave Roussy",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 19,
+        "total_trials": 20,
         "total_unreported": 0
     },
     {
@@ -35827,6 +35955,22 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "institute-of-public-health-denmark",
+        "sponsor_name": "Institute of Public Health (Denmark)",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
         "not_yet_due_trials": 1,
         "parents": [],
         "percent_bad_data": 0.0,
@@ -35918,6 +36062,22 @@
         "total_reported": 0,
         "total_trials": 3,
         "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "instituto-biochimico-italiano-ibi",
+        "sponsor_name": "Instituto Biochimico Italiano (IBI)",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
     },
     {
         "children": [],
@@ -37237,16 +37397,16 @@
         "children": [],
         "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 8,
         "parents": [],
-        "percent_bad_data": 12.5,
+        "percent_bad_data": 11.1,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "istituto-oncologico-veneto",
         "sponsor_name": "Istituto Oncologico Veneto",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 8,
+        "total_trials": 9,
         "total_unreported": 0
     },
     {
@@ -40051,19 +40211,19 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 15,
+        "inconsistent_trials": 16,
         "major": 1,
-        "not_yet_due_trials": 146,
+        "not_yet_due_trials": 147,
         "parents": [],
-        "percent_bad_data": 8.2,
+        "percent_bad_data": 8.6,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "karolinska-institutet",
         "sponsor_name": "Karolinska Institutet",
-        "total_due": 21,
+        "total_due": 22,
         "total_reported": 0,
-        "total_trials": 182,
-        "total_unreported": 21
+        "total_trials": 185,
+        "total_unreported": 22
     },
     {
         "children": [],
@@ -40341,7 +40501,7 @@
         "children": [],
         "inconsistent_trials": 3,
         "major": 1,
-        "not_yet_due_trials": 60,
+        "not_yet_due_trials": 61,
         "parents": [],
         "percent_bad_data": 4.2,
         "percent_reported": 12.5,
@@ -40350,7 +40510,7 @@
         "sponsor_name": "King\u2019s College London",
         "total_due": 8,
         "total_reported": 1,
-        "total_trials": 71,
+        "total_trials": 72,
         "total_unreported": 7
     },
     {
@@ -42817,17 +42977,17 @@
         "children": [],
         "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 28,
+        "not_yet_due_trials": 30,
         "parents": [],
-        "percent_bad_data": 2.9,
+        "percent_bad_data": 2.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "linkoping-university",
         "sponsor_name": "Link\u00f6ping University",
-        "total_due": 5,
+        "total_due": 6,
         "total_reported": 0,
-        "total_trials": 34,
-        "total_unreported": 5
+        "total_trials": 37,
+        "total_unreported": 6
     },
     {
         "children": [],
@@ -43526,17 +43686,17 @@
         "children": [],
         "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 20,
+        "not_yet_due_trials": 21,
         "parents": [],
-        "percent_bad_data": 17.9,
+        "percent_bad_data": 16.1,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "lund-university",
         "sponsor_name": "Lund University",
-        "total_due": 3,
+        "total_due": 5,
         "total_reported": 0,
-        "total_trials": 28,
-        "total_unreported": 3
+        "total_trials": 31,
+        "total_unreported": 5
     },
     {
         "children": [],
@@ -45884,7 +46044,7 @@
         "children": [],
         "inconsistent_trials": 7,
         "major": 1,
-        "not_yet_due_trials": 46,
+        "not_yet_due_trials": 47,
         "parents": [],
         "percent_bad_data": 6.7,
         "percent_reported": 3.9,
@@ -45893,24 +46053,24 @@
         "sponsor_name": "Medical University of Graz",
         "total_due": 51,
         "total_reported": 2,
-        "total_trials": 104,
+        "total_trials": 105,
         "total_unreported": 49
     },
     {
         "children": [],
-        "inconsistent_trials": 35,
+        "inconsistent_trials": 37,
         "major": 1,
-        "not_yet_due_trials": 154,
+        "not_yet_due_trials": 155,
         "parents": [],
-        "percent_bad_data": 10.3,
-        "percent_reported": 4.0,
-        "percent_unreported": 96.0,
+        "percent_bad_data": 10.7,
+        "percent_reported": 4.5,
+        "percent_unreported": 95.5,
         "slug": "medical-university-of-vienna",
         "sponsor_name": "Medical University of Vienna",
-        "total_due": 151,
-        "total_reported": 6,
-        "total_trials": 340,
-        "total_unreported": 145
+        "total_due": 154,
+        "total_reported": 7,
+        "total_trials": 346,
+        "total_unreported": 147
     },
     {
         "children": [],
@@ -46532,16 +46692,16 @@
         "children": [],
         "inconsistent_trials": 31,
         "major": 1,
-        "not_yet_due_trials": 10,
+        "not_yet_due_trials": 11,
         "parents": [],
-        "percent_bad_data": 48.4,
+        "percent_bad_data": 47.7,
         "percent_reported": 69.6,
         "percent_unreported": 30.4,
         "slug": "menarini-group",
         "sponsor_name": "Menarini Group",
         "total_due": 23,
         "total_reported": 16,
-        "total_trials": 64,
+        "total_trials": 65,
         "total_unreported": 7
     },
     {
@@ -47510,6 +47670,38 @@
         "percent_unreported": NaN,
         "slug": "ministerstvo-zdravotnictvi-cr",
         "sponsor_name": "Ministerstvo Zdravotnictv\u00ed \u010cR",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "ministery-of-defense-netherlands",
+        "sponsor_name": "Ministery of Defense (Netherlands)",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "ministry-of-infrastructure-and-the-environment-netherlands",
+        "sponsor_name": "Ministry of Infrastructure and the Environment (Netherlands)",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -48619,6 +48811,22 @@
         "total_reported": 0,
         "total_trials": 47,
         "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "national-centre-for-diabetes-care-hungary",
+        "sponsor_name": "National Centre for Diabetes Care (Hungary)",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -51461,17 +51669,33 @@
         "children": [],
         "inconsistent_trials": 17,
         "major": 1,
-        "not_yet_due_trials": 43,
+        "not_yet_due_trials": 46,
         "parents": [],
-        "percent_bad_data": 19.8,
-        "percent_reported": 3.8,
-        "percent_unreported": 96.2,
+        "percent_bad_data": 18.9,
+        "percent_reported": 3.7,
+        "percent_unreported": 96.3,
         "slug": "odense-university-hospital",
         "sponsor_name": "Odense University Hospital",
-        "total_due": 26,
+        "total_due": 27,
         "total_reported": 1,
-        "total_trials": 86,
-        "total_unreported": 25
+        "total_trials": 90,
+        "total_unreported": 26
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "office-of-the-chief-medical-officer-of-hungary",
+        "sponsor_name": "Office of the Chief Medical Officer of Hungary",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
     },
     {
         "children": [
@@ -53555,17 +53779,17 @@
         "children": [],
         "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 9,
         "parents": [],
-        "percent_bad_data": 14.3,
+        "percent_bad_data": 11.8,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "paracelsus-medical-university",
         "sponsor_name": "Paracelsus Medical University",
-        "total_due": 5,
+        "total_due": 6,
         "total_reported": 0,
-        "total_trials": 14,
-        "total_unreported": 5
+        "total_trials": 17,
+        "total_unreported": 6
     },
     {
         "children": [],
@@ -56989,22 +57213,6 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 2,
-        "major": 0,
-        "not_yet_due_trials": 0,
-        "parents": [],
-        "percent_bad_data": 100.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
-        "slug": "psykiatrien-i-region-syddanmark",
-        "sponsor_name": "Psykiatrien i Region Syddanmark",
-        "total_due": 0,
-        "total_reported": 0,
-        "total_trials": 2,
-        "total_unreported": 0
-    },
-    {
-        "children": [],
         "inconsistent_trials": 0,
         "major": 0,
         "not_yet_due_trials": 0,
@@ -57806,10 +58014,10 @@
         "percent_unreported": 100.0,
         "slug": "randers-regional-hospital",
         "sponsor_name": "Randers Regional Hospital",
-        "total_due": 2,
+        "total_due": 3,
         "total_reported": 0,
-        "total_trials": 4,
-        "total_unreported": 2
+        "total_trials": 5,
+        "total_unreported": 3
     },
     {
         "children": [],
@@ -58200,17 +58408,17 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 2,
         "parents": [],
         "percent_bad_data": 0.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
-        "slug": "region-hovedstadens-psykiatriske-hospital",
-        "sponsor_name": "Region Hovedstadens psykiatriske hospital",
-        "total_due": 0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "region-hovedstaden",
+        "sponsor_name": "Region Hovedstaden",
+        "total_due": 1,
         "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 0
+        "total_trials": 3,
+        "total_unreported": 1
     },
     {
         "children": [],
@@ -58248,16 +58456,16 @@
         "children": [],
         "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 10,
+        "not_yet_due_trials": 11,
         "parents": [],
-        "percent_bad_data": 7.1,
+        "percent_bad_data": 6.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "region-ostergotland",
         "sponsor_name": "Region \u00d6sterg\u00f6tland",
         "total_due": 3,
         "total_reported": 0,
-        "total_trials": 14,
+        "total_trials": 15,
         "total_unreported": 3
     },
     {
@@ -58278,6 +58486,22 @@
     },
     {
         "children": [],
+        "inconsistent_trials": 2,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 66.7,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "region-syddanmark",
+        "sponsor_name": "Region Syddanmark",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 3,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
         "inconsistent_trials": 1,
         "major": 0,
         "not_yet_due_trials": 4,
@@ -58294,19 +58518,19 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 3,
+        "not_yet_due_trials": 5,
         "parents": [],
-        "percent_bad_data": 30.0,
+        "percent_bad_data": 31.2,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "regional-hospital-holstebro",
         "sponsor_name": "Regional Hospital Holstebro",
-        "total_due": 4,
+        "total_due": 6,
         "total_reported": 0,
-        "total_trials": 10,
-        "total_unreported": 4
+        "total_trials": 16,
+        "total_unreported": 6
     },
     {
         "children": [],
@@ -59602,7 +59826,7 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 2,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
@@ -59611,7 +59835,7 @@
         "sponsor_name": "Royal Cornwall Hospitals NHS Trust",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 1,
+        "total_trials": 2,
         "total_unreported": 0
     },
     {
@@ -60554,16 +60778,16 @@
         "children": [],
         "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 34,
+        "not_yet_due_trials": 35,
         "parents": [],
-        "percent_bad_data": 12.8,
+        "percent_bad_data": 12.5,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "sapienza-university-of-rome",
         "sponsor_name": "Sapienza University of Rome",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 39,
+        "total_trials": 40,
         "total_unreported": 0
     },
     {
@@ -61196,14 +61420,14 @@
         "not_yet_due_trials": 9,
         "parents": [],
         "percent_bad_data": 0.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
         "slug": "semmelweis-university",
         "sponsor_name": "Semmelweis University",
-        "total_due": 0,
+        "total_due": 1,
         "total_reported": 0,
-        "total_trials": 9,
-        "total_unreported": 0
+        "total_trials": 10,
+        "total_unreported": 1
     },
     {
         "children": [],
@@ -61526,18 +61750,18 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 54,
+        "inconsistent_trials": 55,
         "major": 1,
         "not_yet_due_trials": 27,
         "parents": [],
-        "percent_bad_data": 42.5,
+        "percent_bad_data": 43.0,
         "percent_reported": 97.8,
         "percent_unreported": 2.2,
         "slug": "servier-laboratories",
         "sponsor_name": "Servier Laboratories",
         "total_due": 46,
         "total_reported": 45,
-        "total_trials": 127,
+        "total_trials": 128,
         "total_unreported": 1
     },
     {
@@ -62278,6 +62502,22 @@
         "percent_unreported": NaN,
         "slug": "skaraborg-hospital",
         "sponsor_name": "Skaraborg Hospital",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "skelleftea-hospital",
+        "sponsor_name": "Skellefte\u00e5 Hospital",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -66516,6 +66756,22 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "the-back-research-center",
+        "sponsor_name": "The Back Research Center",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
         "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 0.0,
@@ -68784,22 +69040,6 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
-        "major": 0,
-        "not_yet_due_trials": 1,
-        "parents": [],
-        "percent_bad_data": 0.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
-        "slug": "uknown-sponsor",
-        "sponsor_name": "Uknown Sponsor",
-        "total_due": 0,
-        "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 0
-    },
-    {
-        "children": [],
         "inconsistent_trials": 1,
         "major": 0,
         "not_yet_due_trials": 0,
@@ -68922,18 +69162,18 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 2,
+        "inconsistent_trials": 3,
         "major": 0,
         "not_yet_due_trials": 14,
         "parents": [],
-        "percent_bad_data": 11.1,
+        "percent_bad_data": 15.8,
         "percent_reported": 50.0,
         "percent_unreported": 50.0,
         "slug": "umea-university",
         "sponsor_name": "Ume\u00e5 University",
         "total_due": 2,
         "total_reported": 1,
-        "total_trials": 18,
+        "total_trials": 19,
         "total_unreported": 1
     },
     {
@@ -68953,20 +69193,3446 @@
         "total_unreported": 0
     },
     {
-        "children": [],
-        "inconsistent_trials": 50,
-        "major": 1,
-        "not_yet_due_trials": 144,
+        "children": [
+            {
+                "name": "Unclear Sponsor Name Given - Allergiklinikken",
+                "slug": "unclear-sponsor-name-given-allergiklinikken"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - ANA M",
+                "slug": "unclear-sponsor-name-given-ana-m"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Anestesikliniken",
+                "slug": "unclear-sponsor-name-given-anestesikliniken"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Augenklinik Universitaetsallee",
+                "slug": "unclear-sponsor-name-given-augenklinik-universitaetsallee"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Berufsgenossenschaftliche Unfallklinik",
+                "slug": "unclear-sponsor-name-given-berufsgenossenschaftliche-unfallklinik"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Cardiac Reserch Unit",
+                "slug": "unclear-sponsor-name-given-cardiac-reserch-unit"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Centre du Cancer",
+                "slug": "unclear-sponsor-name-given-centre-du-cancer"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Centre Hospitalier Universitaire",
+                "slug": "unclear-sponsor-name-given-centre-hospitalier-universitaire"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Chief Scientitst Office",
+                "slug": "unclear-sponsor-name-given-chief-scientitst-office"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Clinic for Nephrology",
+                "slug": "unclear-sponsor-name-given-clinic-for-nephrology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Clinical Immunology and Rheumatology",
+                "slug": "unclear-sponsor-name-given-clinical-immunology-and-rheumatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Clinical Immunology Division",
+                "slug": "unclear-sponsor-name-given-clinical-immunology-division"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Clinical Pharmacology",
+                "slug": "unclear-sponsor-name-given-clinical-pharmacology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - CONSORZIO PER LA RICERCA ONCOLOGICA",
+                "slug": "unclear-sponsor-name-given-consorzio-per-la-ricerca-oncologica"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Anaesethesia",
+                "slug": "unclear-sponsor-name-given-department-of-anaesethesia"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Anaesthesia",
+                "slug": "unclear-sponsor-name-given-department-of-anaesthesia"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Anaesthesia and General Intensive Care Medicine",
+                "slug": "unclear-sponsor-name-given-department-of-anaesthesia-and-general-intensive-care-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Anaesthesia & General Intensive Care Medicine",
+                "slug": "unclear-sponsor-name-given-department-of-anaesthesia-general-intensive-care-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of anesthesiology",
+                "slug": "unclear-sponsor-name-given-department-of-anesthesiology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Anesthesiology & Intensive Care",
+                "slug": "unclear-sponsor-name-given-department-of-anesthesiology-intensive-care"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Anesthesiology University Hospital Center",
+                "slug": "unclear-sponsor-name-given-department-of-anesthesiology-university-hospital-center"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Cardiology",
+                "slug": "unclear-sponsor-name-given-department-of-cardiology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Cardiothoracic and Vascular Surgery",
+                "slug": "unclear-sponsor-name-given-department-of-cardiothoracic-and-vascular-surgery"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Clinical Pharmacology",
+                "slug": "unclear-sponsor-name-given-department-of-clinical-pharmacology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Dermatology",
+                "slug": "unclear-sponsor-name-given-department-of-dermatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Endocrine Oncology",
+                "slug": "unclear-sponsor-name-given-department-of-endocrine-oncology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Endocrinology",
+                "slug": "unclear-sponsor-name-given-department-of-endocrinology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of General Psychiatry",
+                "slug": "unclear-sponsor-name-given-department-of-general-psychiatry"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Genito-Urinary Medicine and Infectious Diseases",
+                "slug": "unclear-sponsor-name-given-department-of-genito-urinary-medicine-and-infectious-diseases"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Haematology",
+                "slug": "unclear-sponsor-name-given-department-of-haematology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Hematology",
+                "slug": "unclear-sponsor-name-given-department-of-hematology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Medical Gastroenterology",
+                "slug": "unclear-sponsor-name-given-department-of-medical-gastroenterology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Medical Research",
+                "slug": "unclear-sponsor-name-given-department-of-medical-research"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Medicine I, Clinical Dep. f. Oncology, University Hospital,",
+                "slug": "unclear-sponsor-name-given-department-of-medicine-i-clinical-dep-f-oncology-university-hospital"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Nephrology",
+                "slug": "unclear-sponsor-name-given-department-of-nephrology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Nephrology and Renal Transplantation",
+                "slug": "unclear-sponsor-name-given-department-of-nephrology-and-renal-transplantation"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Neuroscience, neurology",
+                "slug": "unclear-sponsor-name-given-department-of-neuroscience-neurology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Nuclear Medicine",
+                "slug": "unclear-sponsor-name-given-department-of-nuclear-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Oncology",
+                "slug": "unclear-sponsor-name-given-department-of-oncology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Ophthalmology",
+                "slug": "unclear-sponsor-name-given-department-of-ophthalmology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Pharmacology-Toxicology",
+                "slug": "unclear-sponsor-name-given-department-of-pharmacology-toxicology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Department of Rheumatology",
+                "slug": "unclear-sponsor-name-given-department-of-rheumatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Departments of Medical Research and Medicine",
+                "slug": "unclear-sponsor-name-given-departments-of-medical-research-and-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Departmnet of nephrology",
+                "slug": "unclear-sponsor-name-given-departmnet-of-nephrology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept. Child & Adolescent Psychiatrie",
+                "slug": "unclear-sponsor-name-given-dept-child-adolescent-psychiatrie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept. Hematology, Hospital Clinic",
+                "slug": "unclear-sponsor-name-given-dept-hematology-hospital-clinic"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept of Anaesthesiology 530",
+                "slug": "unclear-sponsor-name-given-dept-of-anaesthesiology-530"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept. of Clinical Pharmacology",
+                "slug": "unclear-sponsor-name-given-dept-of-clinical-pharmacology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept of Dermatology",
+                "slug": "unclear-sponsor-name-given-dept-of-dermatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept. of Internal Medicine",
+                "slug": "unclear-sponsor-name-given-dept-of-internal-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept of Medicine",
+                "slug": "unclear-sponsor-name-given-dept-of-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept of Molecular Medicin and Surgery",
+                "slug": "unclear-sponsor-name-given-dept-of-molecular-medicin-and-surgery"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept. of Nephrology",
+                "slug": "unclear-sponsor-name-given-dept-of-nephrology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept of Oncology",
+                "slug": "unclear-sponsor-name-given-dept-of-oncology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept of ped hem/onc",
+                "slug": "unclear-sponsor-name-given-dept-of-ped-hemonc"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept. of Pharmacology",
+                "slug": "unclear-sponsor-name-given-dept-of-pharmacology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dept. Pharmacology and Toxicology",
+                "slug": "unclear-sponsor-name-given-dept-pharmacology-and-toxicology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dipartimento di Pediatria",
+                "slug": "unclear-sponsor-name-given-dipartimento-di-pediatria"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dipartimento Integrato di Oncologia, Ematologia e Patologie dell'Apparato Respiratorio",
+                "slug": "unclear-sponsor-name-given-dipartimento-integrato-di-oncologia-ematologia-e-patologie-dellapparato-respiratorio"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Division of Rheumatology",
+                "slug": "unclear-sponsor-name-given-division-of-rheumatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Division of Special and Environmental Dermatology",
+                "slug": "unclear-sponsor-name-given-division-of-special-and-environmental-dermatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Dr. Enrique",
+                "slug": "unclear-sponsor-name-given-dr-enrique"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - EM-kliniken",
+                "slug": "unclear-sponsor-name-given-em-kliniken"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Fertilitetsklinikken",
+                "slug": "unclear-sponsor-name-given-fertilitetsklinikken"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Folktandv\u00e5rden",
+                "slug": "unclear-sponsor-name-given-folktandvarden"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Foot and Ankle Surgical center",
+                "slug": "unclear-sponsor-name-given-foot-and-ankle-surgical-center"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Fundaci\u00f3 Cl\u00ednic",
+                "slug": "unclear-sponsor-name-given-fundacio-clinic"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - GERENCIA DE ATENCI\u00d3N PRIMARIA",
+                "slug": "unclear-sponsor-name-given-gerencia-de-atencion-primaria"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Health Ministry",
+                "slug": "unclear-sponsor-name-given-health-ministry"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Hospital Clinic",
+                "slug": "unclear-sponsor-name-given-hospital-clinic"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Hospital Cl\u00ednic-Maternitat",
+                "slug": "unclear-sponsor-name-given-hospital-clinic-maternitat"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Institut de Recerca",
+                "slug": "unclear-sponsor-name-given-institut-de-recerca"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Institut for Pharmacology and Toxicology",
+                "slug": "unclear-sponsor-name-given-institut-for-pharmacology-and-toxicology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Institute for Pharmacology and Toxicology",
+                "slug": "unclear-sponsor-name-given-institute-for-pharmacology-and-toxicology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Institute of oncology",
+                "slug": "unclear-sponsor-name-given-institute-of-oncology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Klinik f. Innere Med., Fachabteilung H\u00e4matologie",
+                "slug": "unclear-sponsor-name-given-klinik-f-innere-med-fachabteilung-hamatologie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Klinik Neurop\u00e4diatrie und Muskelkrankheiten",
+                "slug": "unclear-sponsor-name-given-klinik-neuropadiatrie-und-muskelkrankheiten"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Lab for pharmaceutical biology",
+                "slug": "unclear-sponsor-name-given-lab-for-pharmaceutical-biology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Lungmedicinska kliniken",
+                "slug": "unclear-sponsor-name-given-lungmedicinska-kliniken"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medical Department I",
+                "slug": "unclear-sponsor-name-given-medical-department-i"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medical University, Dpt. Internal Medicin, Division of General Inteal Medicine",
+                "slug": "unclear-sponsor-name-given-medical-university-dpt-internal-medicin-division-of-general-inteal-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medical University, Dpt. Internal Medicin, Division of General Internal Medicine",
+                "slug": "unclear-sponsor-name-given-medical-university-dpt-internal-medicin-division-of-general-internal-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medical University, Dpt. Internal Medicine, Div. of General Internal Medicine",
+                "slug": "unclear-sponsor-name-given-medical-university-dpt-internal-medicine-div-of-general-internal-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medicinsk afdeling",
+                "slug": "unclear-sponsor-name-given-medicinsk-afdeling"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medicinsk Forskning",
+                "slug": "unclear-sponsor-name-given-medicinsk-forskning"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medizinische Klinik III, Kardiologie",
+                "slug": "unclear-sponsor-name-given-medizinische-klinik-iii-kardiologie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medizinische Universit\u00e4tsklinik",
+                "slug": "unclear-sponsor-name-given-medizinische-universitatsklinik"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Medizinische Universit\u00e4tsklinik II , Abteilung H\u00e4matologie, Onkologie, Immunologie und Rheumatologie",
+                "slug": "unclear-sponsor-name-given-medizinische-universitatsklinik-ii-abteilung-hamatologie-onkologie-immunologie-und-rheumatologie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Meical University, Dpt. Internal Medicine, Div. of General Internal Medicine",
+                "slug": "unclear-sponsor-name-given-meical-university-dpt-internal-medicine-div-of-general-internal-medicine"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Neurology Unit",
+                "slug": "unclear-sponsor-name-given-neurology-unit"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Neuropsychiatric clinic",
+                "slug": "unclear-sponsor-name-given-neuropsychiatric-clinic"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Oncology Department",
+                "slug": "unclear-sponsor-name-given-oncology-department"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Onkologisk afdeling R and the Unit for Experimental Chemotherapy",
+                "slug": "unclear-sponsor-name-given-onkologisk-afdeling-r-and-the-unit-for-experimental-chemotherapy"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Ortop\u00e6dkirurgisk afdeling",
+                "slug": "unclear-sponsor-name-given-ortopdkirurgisk-afdeling"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Paediatrisches Sekretariat fuer Klinische Studien",
+                "slug": "unclear-sponsor-name-given-paediatrisches-sekretariat-fuer-klinische-studien"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Pediatric Cardiology",
+                "slug": "unclear-sponsor-name-given-pediatric-cardiology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Pediatrics",
+                "slug": "unclear-sponsor-name-given-pediatrics"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Psychiatric Hospital",
+                "slug": "unclear-sponsor-name-given-psychiatric-hospital"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Research and Enterprise Department",
+                "slug": "unclear-sponsor-name-given-research-and-enterprise-department"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Research & Development Department",
+                "slug": "unclear-sponsor-name-given-research-development-department"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Respiratory and Allergy Research Unit",
+                "slug": "unclear-sponsor-name-given-respiratory-and-allergy-research-unit"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Respiratory research UNit",
+                "slug": "unclear-sponsor-name-given-respiratory-research-unit"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Respitatory and Allergy Research Unit",
+                "slug": "unclear-sponsor-name-given-respitatory-and-allergy-research-unit"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - School of Human Development",
+                "slug": "unclear-sponsor-name-given-school-of-human-development"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Sektion Chirurgische Forschung",
+                "slug": "unclear-sponsor-name-given-sektion-chirurgische-forschung"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Sektion Chirurgische Forschung, Univ.Klinik f.Chirurgie",
+                "slug": "unclear-sponsor-name-given-sektion-chirurgische-forschung-univklinik-fchirurgie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Servicio de Anestesiolog\u00eda y Reanimaci\u00f3n",
+                "slug": "unclear-sponsor-name-given-servicio-de-anestesiologia-y-reanimacion"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Servicio Enfermedades Infecciosas",
+                "slug": "unclear-sponsor-name-given-servicio-enfermedades-infecciosas"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Society (institute) for clinical research",
+                "slug": "unclear-sponsor-name-given-society-institute-for-clinical-research"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - State University Hospital",
+                "slug": "unclear-sponsor-name-given-state-university-hospital"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - The Department of Calcium- and Bone-metabolic Diseases",
+                "slug": "unclear-sponsor-name-given-the-department-of-calcium-and-bone-metabolic-diseases"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Uni-Zentrum naturheilkunde",
+                "slug": "unclear-sponsor-name-given-uni-zentrum-naturheilkunde"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Unidad de Neuroinmunolog\u00eda",
+                "slug": "unclear-sponsor-name-given-unidad-de-neuroinmunologia"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Unit for Psychiatric Research",
+                "slug": "unclear-sponsor-name-given-unit-for-psychiatric-research"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Unita` Operativa di Endocrinologia e Malattie del Metabolismo",
+                "slug": "unclear-sponsor-name-given-unita-operativa-di-endocrinologia-e-malattie-del-metabolismo"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Unit\u00e9 de Recherches Th\u00e9rapeutiques",
+                "slug": "unclear-sponsor-name-given-unite-de-recherches-therapeutiques"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Univ. hospital, Dpt. of anaesthesia",
+                "slug": "unclear-sponsor-name-given-univ-hospital-dpt-of-anaesthesia"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Univ. Klinik f. An\u00e4sthesie, Intensivmedizin und Schmerztherapie",
+                "slug": "unclear-sponsor-name-given-univ-klinik-f-anasthesie-intensivmedizin-und-schmerztherapie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Univ. Klinik f\u00fcr An\u00e4sthesiologie",
+                "slug": "unclear-sponsor-name-given-univ-klinik-fur-anasthesiologie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Univ.Clinic of Dermatology",
+                "slug": "unclear-sponsor-name-given-univclinic-of-dermatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Innere Medizin, Klinische Abteilung f\u00fcr Endokrinologie und Nuklearmedizin",
+                "slug": "unclear-sponsor-name-given-universitatsklinik-fur-innere-medizin-klinische-abteilung-fur-endokrinologie-und-nuklearmedizin"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Kinder-und Jugendheilkunde",
+                "slug": "unclear-sponsor-name-given-universitatsklinik-fur-kinder-und-jugendheilkunde"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Klinische Pharmakologie",
+                "slug": "unclear-sponsor-name-given-universitatsklinik-fur-klinische-pharmakologie"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Psychiatrie - Spezialambulanz f\u00fcr Abhangigkeitserkrankungen",
+                "slug": "unclear-sponsor-name-given-universitatsklinik-fur-psychiatrie-spezialambulanz-fur-abhangigkeitserkrankungen"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Childrens Hospital",
+                "slug": "unclear-sponsor-name-given-university-childrens-hospital"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Childrin's Hospital",
+                "slug": "unclear-sponsor-name-given-university-childrins-hospital"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Clinic Internal Medicine I",
+                "slug": "unclear-sponsor-name-given-university-clinic-internal-medicine-i"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Clinic of Dermatology Division of Special and Enviromental Dermatology",
+                "slug": "unclear-sponsor-name-given-university-clinic-of-dermatology-division-of-special-and-enviromental-dermatology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Eye Hospital",
+                "slug": "unclear-sponsor-name-given-university-eye-hospital"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Hospital",
+                "slug": "unclear-sponsor-name-given-university-hospital"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Hospital Department of Cardiology",
+                "slug": "unclear-sponsor-name-given-university-hospital-department-of-cardiology"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - University Medical Center",
+                "slug": "unclear-sponsor-name-given-university-medical-center"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - UO Divisione Nefrologia, Dialisi e Trapianto renale",
+                "slug": "unclear-sponsor-name-given-uo-divisione-nefrologia-dialisi-e-trapianto-renale"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - U.O. Ginecologia e Ostetricia",
+                "slug": "unclear-sponsor-name-given-uo-ginecologia-e-ostetricia"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - U.O. Terapia intensiva",
+                "slug": "unclear-sponsor-name-given-uo-terapia-intensiva"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - U.O. Tossicologia",
+                "slug": "unclear-sponsor-name-given-uo-tossicologia"
+            },
+            {
+                "name": "Unclear Sponsor Name Given - Women's and Children's Hospital",
+                "slug": "unclear-sponsor-name-given-womens-and-childrens-hospital"
+            }
+        ],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 18.6,
-        "percent_reported": 4.0,
-        "percent_unreported": 96.0,
+        "percent_bad_data": NaN,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
         "slug": "unclear-sponsor-name-given",
         "sponsor_name": "Unclear Sponsor Name Given",
-        "total_due": 75,
-        "total_reported": 3,
-        "total_trials": 269,
-        "total_unreported": 72
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 0,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-allergiklinikken",
+        "sponsor_name": "Unclear Sponsor Name Given - Allergiklinikken",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-ana-m",
+        "sponsor_name": "Unclear Sponsor Name Given - ANA M",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-anestesikliniken",
+        "sponsor_name": "Unclear Sponsor Name Given - Anestesikliniken",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-augenklinik-universitaetsallee",
+        "sponsor_name": "Unclear Sponsor Name Given - Augenklinik Universitaetsallee",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-berufsgenossenschaftliche-unfallklinik",
+        "sponsor_name": "Unclear Sponsor Name Given - Berufsgenossenschaftliche Unfallklinik",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-cardiac-reserch-unit",
+        "sponsor_name": "Unclear Sponsor Name Given - Cardiac Reserch Unit",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-centre-du-cancer",
+        "sponsor_name": "Unclear Sponsor Name Given - Centre du Cancer",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 2,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-centre-hospitalier-universitaire",
+        "sponsor_name": "Unclear Sponsor Name Given - Centre Hospitalier Universitaire",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-chief-scientitst-office",
+        "sponsor_name": "Unclear Sponsor Name Given - Chief Scientitst Office",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-clinic-for-nephrology",
+        "sponsor_name": "Unclear Sponsor Name Given - Clinic for Nephrology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-clinical-immunology-and-rheumatology",
+        "sponsor_name": "Unclear Sponsor Name Given - Clinical Immunology and Rheumatology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-clinical-immunology-division",
+        "sponsor_name": "Unclear Sponsor Name Given - Clinical Immunology Division",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-clinical-pharmacology",
+        "sponsor_name": "Unclear Sponsor Name Given - Clinical Pharmacology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-consorzio-per-la-ricerca-oncologica",
+        "sponsor_name": "Unclear Sponsor Name Given - CONSORZIO PER LA RICERCA ONCOLOGICA",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-anaesethesia",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Anaesethesia",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-anaesthesia",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Anaesthesia",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-anaesthesia-and-general-intensive-care-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Anaesthesia and General Intensive Care Medicine",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-anaesthesia-general-intensive-care-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Anaesthesia & General Intensive Care Medicine",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-anesthesiology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of anesthesiology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-anesthesiology-intensive-care",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Anesthesiology & Intensive Care",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-anesthesiology-university-hospital-center",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Anesthesiology University Hospital Center",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-cardiology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Cardiology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-cardiothoracic-and-vascular-surgery",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Cardiothoracic and Vascular Surgery",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-clinical-pharmacology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Clinical Pharmacology",
+        "total_due": 4,
+        "total_reported": 0,
+        "total_trials": 4,
+        "total_unreported": 4
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-dermatology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Dermatology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-endocrine-oncology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Endocrine Oncology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-endocrinology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Endocrinology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-general-psychiatry",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of General Psychiatry",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-genito-urinary-medicine-and-infectious-diseases",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Genito-Urinary Medicine and Infectious Diseases",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-haematology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Haematology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-hematology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Hematology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-medical-gastroenterology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Medical Gastroenterology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-medical-research",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Medical Research",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-medicine-i-clinical-dep-f-oncology-university-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Medicine I, Clinical Dep. f. Oncology, University Hospital,",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-nephrology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Nephrology",
+        "total_due": 2,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 2
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-nephrology-and-renal-transplantation",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Nephrology and Renal Transplantation",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-neuroscience-neurology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Neuroscience, neurology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-nuclear-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Nuclear Medicine",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-oncology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Oncology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-ophthalmology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Ophthalmology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-department-of-pharmacology-toxicology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Pharmacology-Toxicology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-department-of-rheumatology",
+        "sponsor_name": "Unclear Sponsor Name Given - Department of Rheumatology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-departments-of-medical-research-and-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Departments of Medical Research and Medicine",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-departmnet-of-nephrology",
+        "sponsor_name": "Unclear Sponsor Name Given - Departmnet of nephrology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-child-adolescent-psychiatrie",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept. Child & Adolescent Psychiatrie",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-hematology-hospital-clinic",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept. Hematology, Hospital Clinic",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-of-anaesthesiology-530",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept of Anaesthesiology 530",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-dept-of-clinical-pharmacology",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept. of Clinical Pharmacology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-of-dermatology",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept of Dermatology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-dept-of-internal-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept. of Internal Medicine",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-of-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept of Medicine",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-of-molecular-medicin-and-surgery",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept of Molecular Medicin and Surgery",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-dept-of-nephrology",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept. of Nephrology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-of-oncology",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept of Oncology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-dept-of-ped-hemonc",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept of ped hem/onc",
+        "total_due": 3,
+        "total_reported": 0,
+        "total_trials": 4,
+        "total_unreported": 3
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-dept-of-pharmacology",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept. of Pharmacology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dept-pharmacology-and-toxicology",
+        "sponsor_name": "Unclear Sponsor Name Given - Dept. Pharmacology and Toxicology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dipartimento-di-pediatria",
+        "sponsor_name": "Unclear Sponsor Name Given - Dipartimento di Pediatria",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dipartimento-integrato-di-oncologia-ematologia-e-patologie-dellapparato-respiratorio",
+        "sponsor_name": "Unclear Sponsor Name Given - Dipartimento Integrato di Oncologia, Ematologia e Patologie dell'Apparato Respiratorio",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-division-of-rheumatology",
+        "sponsor_name": "Unclear Sponsor Name Given - Division of Rheumatology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-division-of-special-and-environmental-dermatology",
+        "sponsor_name": "Unclear Sponsor Name Given - Division of Special and Environmental Dermatology",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-dr-enrique",
+        "sponsor_name": "Unclear Sponsor Name Given - Dr. Enrique",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-em-kliniken",
+        "sponsor_name": "Unclear Sponsor Name Given - EM-kliniken",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-fertilitetsklinikken",
+        "sponsor_name": "Unclear Sponsor Name Given - Fertilitetsklinikken",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-folktandvarden",
+        "sponsor_name": "Unclear Sponsor Name Given - Folktandv\u00e5rden",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-foot-and-ankle-surgical-center",
+        "sponsor_name": "Unclear Sponsor Name Given - Foot and Ankle Surgical center",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 3,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-fundacio-clinic",
+        "sponsor_name": "Unclear Sponsor Name Given - Fundaci\u00f3 Cl\u00ednic",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 3,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-gerencia-de-atencion-primaria",
+        "sponsor_name": "Unclear Sponsor Name Given - GERENCIA DE ATENCI\u00d3N PRIMARIA",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-health-ministry",
+        "sponsor_name": "Unclear Sponsor Name Given - Health Ministry",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 2,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 66.7,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-hospital-clinic",
+        "sponsor_name": "Unclear Sponsor Name Given - Hospital Clinic",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 3,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-hospital-clinic-maternitat",
+        "sponsor_name": "Unclear Sponsor Name Given - Hospital Cl\u00ednic-Maternitat",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-institut-de-recerca",
+        "sponsor_name": "Unclear Sponsor Name Given - Institut de Recerca",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 2,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-institut-for-pharmacology-and-toxicology",
+        "sponsor_name": "Unclear Sponsor Name Given - Institut for Pharmacology and Toxicology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-institute-for-pharmacology-and-toxicology",
+        "sponsor_name": "Unclear Sponsor Name Given - Institute for Pharmacology and Toxicology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-institute-of-oncology",
+        "sponsor_name": "Unclear Sponsor Name Given - Institute of oncology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-klinik-f-innere-med-fachabteilung-hamatologie",
+        "sponsor_name": "Unclear Sponsor Name Given - Klinik f. Innere Med., Fachabteilung H\u00e4matologie",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-klinik-neuropadiatrie-und-muskelkrankheiten",
+        "sponsor_name": "Unclear Sponsor Name Given - Klinik Neurop\u00e4diatrie und Muskelkrankheiten",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-lab-for-pharmaceutical-biology",
+        "sponsor_name": "Unclear Sponsor Name Given - Lab for pharmaceutical biology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-lungmedicinska-kliniken",
+        "sponsor_name": "Unclear Sponsor Name Given - Lungmedicinska kliniken",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-medical-department-i",
+        "sponsor_name": "Unclear Sponsor Name Given - Medical Department I",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 2,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-medical-university-dpt-internal-medicin-division-of-general-inteal-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Medical University, Dpt. Internal Medicin, Division of General Inteal Medicine",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-medical-university-dpt-internal-medicin-division-of-general-internal-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Medical University, Dpt. Internal Medicin, Division of General Internal Medicine",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 50.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-medical-university-dpt-internal-medicine-div-of-general-internal-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Medical University, Dpt. Internal Medicine, Div. of General Internal Medicine",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-medicinsk-afdeling",
+        "sponsor_name": "Unclear Sponsor Name Given - Medicinsk afdeling",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 33.3,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-medicinsk-forskning",
+        "sponsor_name": "Unclear Sponsor Name Given - Medicinsk Forskning",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 3,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-medizinische-klinik-iii-kardiologie",
+        "sponsor_name": "Unclear Sponsor Name Given - Medizinische Klinik III, Kardiologie",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-medizinische-universitatsklinik",
+        "sponsor_name": "Unclear Sponsor Name Given - Medizinische Universit\u00e4tsklinik",
+        "total_due": 2,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 2
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-medizinische-universitatsklinik-ii-abteilung-hamatologie-onkologie-immunologie-und-rheumatologie",
+        "sponsor_name": "Unclear Sponsor Name Given - Medizinische Universit\u00e4tsklinik II , Abteilung H\u00e4matologie, Onkologie, Immunologie und Rheumatologie",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-meical-university-dpt-internal-medicine-div-of-general-internal-medicine",
+        "sponsor_name": "Unclear Sponsor Name Given - Meical University, Dpt. Internal Medicine, Div. of General Internal Medicine",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-neurology-unit",
+        "sponsor_name": "Unclear Sponsor Name Given - Neurology Unit",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-neuropsychiatric-clinic",
+        "sponsor_name": "Unclear Sponsor Name Given - Neuropsychiatric clinic",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 2,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 66.7,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-oncology-department",
+        "sponsor_name": "Unclear Sponsor Name Given - Oncology Department",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 3,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-onkologisk-afdeling-r-and-the-unit-for-experimental-chemotherapy",
+        "sponsor_name": "Unclear Sponsor Name Given - Onkologisk afdeling R and the Unit for Experimental Chemotherapy",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-ortopdkirurgisk-afdeling",
+        "sponsor_name": "Unclear Sponsor Name Given - Ortop\u00e6dkirurgisk afdeling",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-paediatrisches-sekretariat-fuer-klinische-studien",
+        "sponsor_name": "Unclear Sponsor Name Given - Paediatrisches Sekretariat fuer Klinische Studien",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-pediatric-cardiology",
+        "sponsor_name": "Unclear Sponsor Name Given - Pediatric Cardiology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-pediatrics",
+        "sponsor_name": "Unclear Sponsor Name Given - Pediatrics",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-psychiatric-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - Psychiatric Hospital",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-research-and-enterprise-department",
+        "sponsor_name": "Unclear Sponsor Name Given - Research and Enterprise Department",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-research-development-department",
+        "sponsor_name": "Unclear Sponsor Name Given - Research & Development Department",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 50.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-respiratory-and-allergy-research-unit",
+        "sponsor_name": "Unclear Sponsor Name Given - Respiratory and Allergy Research Unit",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-respiratory-research-unit",
+        "sponsor_name": "Unclear Sponsor Name Given - Respiratory research UNit",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-respitatory-and-allergy-research-unit",
+        "sponsor_name": "Unclear Sponsor Name Given - Respitatory and Allergy Research Unit",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-school-of-human-development",
+        "sponsor_name": "Unclear Sponsor Name Given - School of Human Development",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-sektion-chirurgische-forschung",
+        "sponsor_name": "Unclear Sponsor Name Given - Sektion Chirurgische Forschung",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-sektion-chirurgische-forschung-univklinik-fchirurgie",
+        "sponsor_name": "Unclear Sponsor Name Given - Sektion Chirurgische Forschung, Univ.Klinik f.Chirurgie",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-servicio-de-anestesiologia-y-reanimacion",
+        "sponsor_name": "Unclear Sponsor Name Given - Servicio de Anestesiolog\u00eda y Reanimaci\u00f3n",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-servicio-enfermedades-infecciosas",
+        "sponsor_name": "Unclear Sponsor Name Given - Servicio Enfermedades Infecciosas",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-society-institute-for-clinical-research",
+        "sponsor_name": "Unclear Sponsor Name Given - Society (institute) for clinical research",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-state-university-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - State University Hospital",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-the-department-of-calcium-and-bone-metabolic-diseases",
+        "sponsor_name": "Unclear Sponsor Name Given - The Department of Calcium- and Bone-metabolic Diseases",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-uni-zentrum-naturheilkunde",
+        "sponsor_name": "Unclear Sponsor Name Given - Uni-Zentrum naturheilkunde",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-unidad-de-neuroinmunologia",
+        "sponsor_name": "Unclear Sponsor Name Given - Unidad de Neuroinmunolog\u00eda",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-unit-for-psychiatric-research",
+        "sponsor_name": "Unclear Sponsor Name Given - Unit for Psychiatric Research",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-unita-operativa-di-endocrinologia-e-malattie-del-metabolismo",
+        "sponsor_name": "Unclear Sponsor Name Given - Unita` Operativa di Endocrinologia e Malattie del Metabolismo",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-unite-de-recherches-therapeutiques",
+        "sponsor_name": "Unclear Sponsor Name Given - Unit\u00e9 de Recherches Th\u00e9rapeutiques",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-univ-hospital-dpt-of-anaesthesia",
+        "sponsor_name": "Unclear Sponsor Name Given - Univ. hospital, Dpt. of anaesthesia",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-univ-klinik-f-anasthesie-intensivmedizin-und-schmerztherapie",
+        "sponsor_name": "Unclear Sponsor Name Given - Univ. Klinik f. An\u00e4sthesie, Intensivmedizin und Schmerztherapie",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-univ-klinik-fur-anasthesiologie",
+        "sponsor_name": "Unclear Sponsor Name Given - Univ. Klinik f\u00fcr An\u00e4sthesiologie",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-univclinic-of-dermatology",
+        "sponsor_name": "Unclear Sponsor Name Given - Univ.Clinic of Dermatology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-universitatsklinik-fur-innere-medizin-klinische-abteilung-fur-endokrinologie-und-nuklearmedizin",
+        "sponsor_name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Innere Medizin, Klinische Abteilung f\u00fcr Endokrinologie und Nuklearmedizin",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-universitatsklinik-fur-kinder-und-jugendheilkunde",
+        "sponsor_name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Kinder-und Jugendheilkunde",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-universitatsklinik-fur-klinische-pharmakologie",
+        "sponsor_name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Klinische Pharmakologie",
+        "total_due": 2,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 2
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-universitatsklinik-fur-psychiatrie-spezialambulanz-fur-abhangigkeitserkrankungen",
+        "sponsor_name": "Unclear Sponsor Name Given - Universit\u00e4tsklinik f\u00fcr Psychiatrie - Spezialambulanz f\u00fcr Abhangigkeitserkrankungen",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-university-childrens-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - University Childrens Hospital",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-university-childrins-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - University Childrin's Hospital",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-university-clinic-internal-medicine-i",
+        "sponsor_name": "Unclear Sponsor Name Given - University Clinic Internal Medicine I",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 100.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-university-clinic-of-dermatology-division-of-special-and-enviromental-dermatology",
+        "sponsor_name": "Unclear Sponsor Name Given - University Clinic of Dermatology Division of Special and Enviromental Dermatology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-university-eye-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - University Eye Hospital",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 2,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 50.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-university-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - University Hospital",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 4,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-university-hospital-department-of-cardiology",
+        "sponsor_name": "Unclear Sponsor Name Given - University Hospital Department of Cardiology",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 1,
+        "major": 0,
+        "not_yet_due_trials": 2,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 33.3,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-university-medical-center",
+        "sponsor_name": "Unclear Sponsor Name Given - University Medical Center",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 3,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-uo-divisione-nefrologia-dialisi-e-trapianto-renale",
+        "sponsor_name": "Unclear Sponsor Name Given - UO Divisione Nefrologia, Dialisi e Trapianto renale",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-uo-ginecologia-e-ostetricia",
+        "sponsor_name": "Unclear Sponsor Name Given - U.O. Ginecologia e Ostetricia",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 2,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-uo-terapia-intensiva",
+        "sponsor_name": "Unclear Sponsor Name Given - U.O. Terapia intensiva",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 2,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 0,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
+        "slug": "unclear-sponsor-name-given-uo-tossicologia",
+        "sponsor_name": "Unclear Sponsor Name Given - U.O. Tossicologia",
+        "total_due": 1,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 1
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [
+            {
+                "name": "Unclear Sponsor Name Given",
+                "slug": "unclear-sponsor-name-given"
+            }
+        ],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
+        "slug": "unclear-sponsor-name-given-womens-and-childrens-hospital",
+        "sponsor_name": "Unclear Sponsor Name Given - Women's and Children's Hospital",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -68994,7 +72660,7 @@
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "unia-zaklady-farmaceutyczne",
-        "sponsor_name": "Unia. Zaklady farmaceutyczne",
+        "sponsor_name": "Unia. Zaklady Farmaceutyczne",
         "total_due": 0,
         "total_reported": 0,
         "total_trials": 1,
@@ -69451,6 +73117,22 @@
         "percent_bad_data": 0.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
+        "slug": "universitat-rovira-i-virgili",
+        "sponsor_name": "Universitat Rovira I Virgili",
+        "total_due": 0,
+        "total_reported": 0,
+        "total_trials": 1,
+        "total_unreported": 0
+    },
+    {
+        "children": [],
+        "inconsistent_trials": 0,
+        "major": 0,
+        "not_yet_due_trials": 1,
+        "parents": [],
+        "percent_bad_data": 0.0,
+        "percent_reported": NaN,
+        "percent_unreported": NaN,
         "slug": "universitatsklinik-fur-urologie-und-andrologie",
         "sponsor_name": "Universit\u00e4tsklinik f\u00fcr Urologie und Andrologie",
         "total_due": 0,
@@ -69526,7 +73208,7 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 3,
+        "not_yet_due_trials": 4,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": 0.0,
@@ -69535,7 +73217,7 @@
         "sponsor_name": "University College Cork",
         "total_due": 1,
         "total_reported": 0,
-        "total_trials": 4,
+        "total_trials": 5,
         "total_unreported": 1
     },
     {
@@ -69574,23 +73256,23 @@
         "children": [],
         "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 9,
+        "not_yet_due_trials": 12,
         "parents": [],
-        "percent_bad_data": 9.1,
+        "percent_bad_data": 7.1,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "university-college-hospital-galway",
         "sponsor_name": "University College Hospital Galway",
         "total_due": 1,
         "total_reported": 0,
-        "total_trials": 11,
+        "total_trials": 14,
         "total_unreported": 1
     },
     {
         "children": [],
         "inconsistent_trials": 3,
         "major": 1,
-        "not_yet_due_trials": 91,
+        "not_yet_due_trials": 92,
         "parents": [],
         "percent_bad_data": 2.7,
         "percent_reported": 38.9,
@@ -69599,7 +73281,7 @@
         "sponsor_name": "University College London",
         "total_due": 18,
         "total_reported": 7,
-        "total_trials": 112,
+        "total_trials": 113,
         "total_unreported": 11
     },
     {
@@ -69844,18 +73526,18 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 5,
+        "inconsistent_trials": 6,
         "major": 0,
         "not_yet_due_trials": 27,
         "parents": [],
-        "percent_bad_data": 11.4,
+        "percent_bad_data": 13.3,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "university-hospital-tubingen",
         "sponsor_name": "University Hospital T\u00fcbingen",
         "total_due": 12,
         "total_reported": 0,
-        "total_trials": 44,
+        "total_trials": 45,
         "total_unreported": 12
     },
     {
@@ -70118,7 +73800,7 @@
         "children": [],
         "inconsistent_trials": 0,
         "major": 0,
-        "not_yet_due_trials": 11,
+        "not_yet_due_trials": 12,
         "parents": [],
         "percent_bad_data": 0.0,
         "percent_reported": 0.0,
@@ -70127,7 +73809,7 @@
         "sponsor_name": "University of Bristol",
         "total_due": 3,
         "total_reported": 0,
-        "total_trials": 14,
+        "total_trials": 15,
         "total_unreported": 3
     },
     {
@@ -70260,18 +73942,18 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 2,
         "major": 1,
         "not_yet_due_trials": 7,
         "parents": [],
-        "percent_bad_data": 1.5,
-        "percent_reported": 79.7,
-        "percent_unreported": 20.3,
+        "percent_bad_data": 2.9,
+        "percent_reported": 80.0,
+        "percent_unreported": 20.0,
         "slug": "university-of-dundee",
         "sponsor_name": "University of Dundee",
-        "total_due": 59,
-        "total_reported": 47,
-        "total_trials": 67,
+        "total_due": 60,
+        "total_reported": 48,
+        "total_trials": 69,
         "total_unreported": 12
     },
     {
@@ -70438,7 +74120,7 @@
         "children": [],
         "inconsistent_trials": 4,
         "major": 0,
-        "not_yet_due_trials": 107,
+        "not_yet_due_trials": 108,
         "parents": [],
         "percent_bad_data": 3.6,
         "percent_reported": NaN,
@@ -70447,7 +74129,7 @@
         "sponsor_name": "University of Groningen",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 111,
+        "total_trials": 112,
         "total_unreported": 0
     },
     {
@@ -70838,17 +74520,17 @@
         "children": [],
         "inconsistent_trials": 8,
         "major": 1,
-        "not_yet_due_trials": 66,
+        "not_yet_due_trials": 68,
         "parents": [],
-        "percent_bad_data": 8.0,
-        "percent_reported": 76.9,
-        "percent_unreported": 23.1,
+        "percent_bad_data": 7.8,
+        "percent_reported": 74.1,
+        "percent_unreported": 25.9,
         "slug": "university-of-oxford",
         "sponsor_name": "University of Oxford",
-        "total_due": 26,
+        "total_due": 27,
         "total_reported": 20,
-        "total_trials": 100,
-        "total_unreported": 6
+        "total_trials": 103,
+        "total_unreported": 7
     },
     {
         "children": [],
@@ -71208,15 +74890,15 @@
         "major": 0,
         "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 100.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
+        "percent_bad_data": 50.0,
+        "percent_reported": 0.0,
+        "percent_unreported": 100.0,
         "slug": "university-of-vienna",
         "sponsor_name": "University of Vienna",
-        "total_due": 0,
+        "total_due": 1,
         "total_reported": 0,
-        "total_trials": 1,
-        "total_unreported": 0
+        "total_trials": 2,
+        "total_unreported": 1
     },
     {
         "children": [],
@@ -71408,16 +75090,16 @@
         "children": [],
         "inconsistent_trials": 7,
         "major": 1,
-        "not_yet_due_trials": 40,
+        "not_yet_due_trials": 41,
         "parents": [],
-        "percent_bad_data": 13.5,
+        "percent_bad_data": 13.2,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "uppsala-universityuppsala-county-council",
         "sponsor_name": "Uppsala University/Uppsala County Council",
         "total_due": 5,
         "total_reported": 0,
-        "total_trials": 52,
+        "total_trials": 53,
         "total_unreported": 5
     },
     {
@@ -71742,16 +75424,16 @@
         "children": [],
         "inconsistent_trials": 8,
         "major": 0,
-        "not_yet_due_trials": 36,
+        "not_yet_due_trials": 37,
         "parents": [],
-        "percent_bad_data": 18.2,
+        "percent_bad_data": 17.8,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "vall-dhebron-university-hospital",
         "sponsor_name": "Vall d'Hebron University Hospital",
         "total_due": 0,
         "total_reported": 0,
-        "total_trials": 44,
+        "total_trials": 45,
         "total_unreported": 0
     },
     {
@@ -73082,16 +76764,16 @@
         "children": [],
         "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 37,
+        "not_yet_due_trials": 38,
         "parents": [],
-        "percent_bad_data": 11.4,
+        "percent_bad_data": 11.1,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "vrije-universiteit-brussel",
         "sponsor_name": "Vrije Universiteit Brussel",
         "total_due": 2,
         "total_reported": 0,
-        "total_trials": 44,
+        "total_trials": 45,
         "total_unreported": 2
     },
     {

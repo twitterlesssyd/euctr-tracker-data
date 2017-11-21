@@ -67,13 +67,13 @@
         "total_trials": 30587
     },
     "2017-09-20": {
-        "all_sponsors_count": 4423,
+        "all_sponsors_count": 4576,
         "due_date_cutoff": "2016-08-30",
         "due_trials": 7029,
         "due_trials_with_results": 3461,
         "due_trials_without_results": 3568,
         "inconsistent_trials": 8832,
-        "major_sponsors_count": 89,
+        "major_sponsors_count": 88,
         "percent_inconsistent": 28.5,
         "percent_without_results": 50.8,
         "scrape_date": "2017-09-20",
