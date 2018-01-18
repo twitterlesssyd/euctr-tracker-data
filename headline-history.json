@@ -91,5 +91,18 @@
         "percent_without_results": 50.7,
         "scrape_date": "2017-12-03",
         "total_trials": 31507
+    },
+    "2018-01-17": {
+        "all_sponsors_count": 4649,
+        "due_date_cutoff": "2016-12-20",
+        "due_trials": 7266,
+        "due_trials_with_results": 3601,
+        "due_trials_without_results": 3665,
+        "inconsistent_trials": 9302,
+        "major_sponsors_count": 89,
+        "percent_inconsistent": 29.3,
+        "percent_without_results": 50.4,
+        "scrape_date": "2018-01-17",
+        "total_trials": 31710
     }
 }
